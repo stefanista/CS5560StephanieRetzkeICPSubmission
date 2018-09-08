@@ -1,0 +1,497 @@
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+special:especial,exceptional,extra,extraordinary,limited,particular,peculiar,primary,specialised,specialized
+faculty:Christendom,Christianity,College of Cardinals,Sacred College,accomplishment,acquirement,acquisition,administration,aptitude,attainment
+identified:known
+several:different,individual,respective,single,some,various
+specific:ad hoc,circumstantial,limited,particular,particularised,particularized,peculiar,precise,proper(,special
+related:affiliated,affinal,affine,age-related,agnate,agnatic,akin,allied,attached,blood-related
+role:acting,activating,activation,actus reus,aid,animation,assignment,assist,assistance,attempt
+dopamine:5-hydroxytryptamine,Dopastat,Intropin,noradrenaline,norepinephrine,serotonin
+norepinephrine:5-hydroxytryptamine,ADH,Adrenalin,Dopastat,Hypertensin,Intropin,Pitressin,Privine,Sudafed,adrenaline
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+antidepressant:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Edronax,Fosamax,HAART,Imuran
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+either:
+warrant:O.K.,OK,acclaim,acclamation,amnesty,applause,approbation,arrest warrant,assize,attachment
+attention:TLC,absorption,acquisition,action,address,aid,alertness,apperception,attending,attentiveness
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+need:absolution,ambiance,ambience,amyotonia,anchorage,ascendance,ascendancy,ascendence,ascendency,astigmatism
+more:many,more than,much
+interest:Jewry,advantage,allocation,allotment,allowance,amusement,antic,assemblage,athletics,avocation
+include:abide,abstract,add on,adjoin,admit,allow,allow in,appreciate,attach to,authorise
+fatigue:asthenopia,blahs,charge,clutch,commission,depletion,drowsiness,drunkenness,emergency,exhaustion
+lethargy:adynamia,attenuation,delicacy,enervation,faintness,fatigability,feebleness,flatness,flimsiness,fragility
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+somatic:bodily,corporal,corporeal,physical
+presentation:Buffalo Bill's Wild West Show,Snellen chart,Station of the Cross,Wild West Show,account,acting out,adumbration,apprisal,array,asana
+neurobiology:astrobiology,biogeography,bionomics,botany,cryobiology,cytology,ecology,embryology,environmental science,exobiology
+fatigue:asthenopia,blahs,charge,clutch,commission,depletion,drowsiness,drunkenness,emergency,exhaustion
+role:acting,activating,activation,actus reus,aid,animation,assignment,assist,assistance,attempt
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+determining:deciding,decisive,determinant,determinative
+symptom:Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,ague,albuminuria,alkalinuria
+rating:acid test,adjudication,archidiaconate,assay,baronetcy,barony,billionth,bond rating,check,critical analysis
+sexual:intersexual,intimate,sexed,sexy,unisexual
+side:Eden,Edgeworth-Kuiper belt,English,ICU,Klein bottle,Kuiper belt,Mobius strip,Papua,Shangri-la,Sind
+faculty:Christendom,Christianity,College of Cardinals,Sacred College,accomplishment,acquirement,acquisition,administration,aptitude,attainment
+importance:GDP,GNP,accent,account,big deal,book value,cost,dishonor,dishonour,emphasis
+patient:affected role,agent,agentive role,alexic,analysand,anorectic,anorexic,arthritic,benefactive role,beneficiary
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+well:advantageously,comfortably,considerably,easily,good,intimately,substantially
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+ways:airdock,altar,arcade,arch,area,arena,balance,balcony,bascule,boarding
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+disease:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,aeroembolism,ague,air embolism,amyloidosis,animal disease
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+affect:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,acerbate
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+major:better,leading,major(,prima,senior,star,starring,stellar
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+demonstrate:abduce,adduce,arise,attest,authenticate,back,back up,bring home,bring out,certify
+regional:territorial
+following:favorable,favourable,next,pursuing,succeeding,undermentioned
+various:assorted,different,diverse,individual,respective,several,single,varied,versatile
+antidepressant:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Edronax,Fosamax,HAART,Imuran
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+major:better,leading,major(,prima,senior,star,starring,stellar
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+include:abide,abstract,add on,adjoin,admit,allow,allow in,appreciate,attach to,authorise
+therapy:EMDA,HRT,actinotherapy,aftercare,allopathy,anticoagulation,aromatherapy,bandaging,binding,bloodletting
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+selective:discriminating,exclusive
+serotonin:5-hydroxytryptamine,Dopastat,Intropin,dopamine,noradrenaline,norepinephrine
+reuptake:re-uptake
+inhibitor:adulterant,adulterator,agent,allergen,angiotensin II inhibitor,anticatalyst,antigen,antioxidant,assay,carcinogen
+little:atomic,bantam,bittie,bitty,chunky,compact,diminutive,dinky,dumpy,dwarfish
+known:acknowledged,best-known,better-known,celebrated,famed,familiar,famous,far-famed,glorious,identified
+about:almost,approximately,around,close to,just about,more or less,most,near,nearly,nigh
+relative:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+combined:compounded,conglomerate,occluded,one,rolled into one,sorbed
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+health:absolution,ambiance,ambience,amyotonia,anchorage,ascendance,ascendancy,ascendence,ascendency,astigmatism
+postpartum:postnatal
+it:EE,IT,aeronautical engineering,architectural engineering,bioengineering,bionics,biotechnology,chemical engineering,civil engineering,computer science
+often:a great deal,frequently,much,oft,oftentimes,ofttimes
+remains:archeological remains,cadaver,carcase,carcass,carrion,catch,charm,clay,commemorative,corpse
+undetected:undiscovered,unobserved,unseen
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+comprehensively:
+postpartum:postnatal
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+very:identical,precise,same,selfsame
+few:aristocracy,beau monde,bon ton,chosen,clerisy,cream,elect,high society,intelligentsia,nobility
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+specifically:
+acceptability:acceptableness,adequacy,adequateness,admissibility,palatability,palatableness
+postpartum:postnatal
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+objective:accusative,clinical,concrete,documentary,existent,impersonal,neutral,nonsubjective,real,verifiable
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+examine:accept,adjudge,analyse,analyze,anatomize,anticipate,appraise,approve,ascribe,assay
+systematically:consistently
+literature:Sanskrit literature,adaptation,architecture,autograph,bowdlerisation,bowdlerization,classics,comparative literature,criticism,cryptogram
+identify:abstract,announce,apply,appreciate,assess,call,capitalise,capitalize,charge,come back
+postpartum:postnatal
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+maternal:enate,enatic,maternalistic,matriarchal,motherlike,motherly,parental,paternal,related
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+two:0,1,2,3,4,5,6,7,8,9
+brief:abbreviated,concise,short
+interpersonal:social
+psychotherapy:EMDA,Freudian psychology,HRT,Jungian psychology,actinotherapy,alienism,analysis,aromatherapy,behavior modification,behavior therapy
+cognitive:
+behavior:acting,activating,activation,activeness,activity,actus reus,agency,aggression,aid,animation
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+major:better,leading,major(,prima,senior,star,starring,stellar
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+by:aside,away,past
+hundred:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+fifty:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+randomly:arbitrarily,at random,every which way,haphazardly,indiscriminately,willy-nilly
+assigned:allotted,appointed
+one:1,ane,cardinal,combined,extraordinary,i,incomparable,indefinite,matchless,nonpareil
+four:0,1,2,3,4,5,6,7,8,9
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+interpersonal:social
+cognitive:
+behavior:acting,activating,activation,activeness,activity,actus reus,agency,aggression,aid,animation
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+hydrochloride:
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+standard:American flag,Beaufort scale,Brix scale,Confederate flag,ERA,GDP,GNP,GPA,Jolly Roger,Old Glory
+reference:ASCII,American Standard Code for Information Interchange,ECC,N.B.,NB,PS,URL,accenting,accentuation,accomplishment
+placebo:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Fosamax,HAART,Imuran,Inocor
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+all:complete,each,every,every last
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+reduction:about-face,addition reaction,adjustment,adulteration,aldol reaction,alleviation,alteration,amortisation,amortization,chain reaction
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+improvement:absolution,accommodation,adjustment,advance,aeration,airing,ambiance,ambience,amelioration,amyotonia
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+functioning:action,activity,biological process,chelation,dealignment,decrease,decrement,defining,degeneration,development
+over:all over,o'er
+course:Stations,Stations of the Cross,accenting,accentuation,accomplishment,achievement,aclinic line,actinide series,adult education,afters
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+consistent:accordant,agreeable,coherent,concordant,conformable,consonant,duplicable,duplicatable,homogeneous,homogenous
+ordering:aestivation,alphabetisation,alphabetization,array,bacteria order,categorisation,categorization,classification,contrivance,estivation
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+generally:broadly,broadly speaking,by and large,in general,in the main,loosely,more often than not,mostly
+placebo:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Fosamax,HAART,Imuran,Inocor
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+two:0,1,2,3,4,5,6,7,8,9
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+between:'tween,betwixt
+but:just,merely,only,simply
+generally:broadly,broadly speaking,by and large,in general,in the main,loosely,more often than not,mostly
+closer:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+out:KO'd,dead,down,exterior,extinct,forbidden,impermissible,impossible,kayoed,knocked out
+on:along
+total:abound,accept,account,account for,act,add,add together,add up,adhere,adorn
+regard:acceptance,advertence,advertency,afternoon,attachment,attentiveness,calling card,card,celebrity,clock-watching
+initial:A,B,C,D,E,F,G,H,I,J
+severity:Puritanism,asperity,austereness,badness,bareness,burdensomeness,chasteness,distressfulness,effortfulness,emphasis
+illness:aeroembolism,affliction,ague,air embolism,amyloidosis,anuresis,anuria,bends,biliousness,caisson disease
+primary:basal,basic,capital,chief,direct,elemental,elementary,essential,first,first-string
+there:at that place,in that location,in that respect,on that point,thither
+no:no more
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+greater:
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+one:1,ane,cardinal,combined,extraordinary,i,incomparable,indefinite,matchless,nonpareil
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+other:another,different,early,former,new,opposite,otherwise,past,separate,some other
+no:no more
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+either:
+significantly:importantly
+less:fewer,inferior,little,slight
+effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
+standard:American flag,Beaufort scale,Brix scale,Confederate flag,ERA,GDP,GNP,GPA,Jolly Roger,Old Glory
+reference:ASCII,American Standard Code for Information Interchange,ECC,N.B.,NB,PS,URL,accenting,accentuation,accomplishment
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+each:all
+placebo:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Fosamax,HAART,Imuran,Inocor
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+there:at that place,in that location,in that respect,on that point,thither
+limited:circumscribed,finite,incomprehensive,minor,moderate,modest,modified,narrow,noncomprehensive,pocket-size
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+specific:ad hoc,circumstantial,limited,particular,particularised,particularized,peculiar,precise,proper(,special
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+interpersonal:social
+psychotherapy:EMDA,Freudian psychology,HRT,Jungian psychology,actinotherapy,alienism,analysis,aromatherapy,behavior modification,behavior therapy
+none:aurora,bedtime,break of day,break of the day,canonical hour,chapel,chapel service,church,church service,closing time
+cognitive:
+behavior:acting,activating,activation,activeness,activity,actus reus,agency,aggression,aid,animation
+recovery:abidance,accommodation,acquiring,action,activity,actuation,adjustment,assessment,assumption,causation
+rates:capital gains tax,capital levy,capitation,degressive tax,departure tax,direct tax,franchise tax,gift tax,graduated tax,income tax
+found:activate,actuate,appoint,arrange,attempt,base,build,constitute,devise,establish
+both:some
+interpersonal:social
+psychotherapy:EMDA,Freudian psychology,HRT,Jungian psychology,actinotherapy,alienism,analysis,aromatherapy,behavior modification,behavior therapy
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+placebo:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Fosamax,HAART,Imuran,Inocor
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+mean:average,awful,base,bastardly,beggarly,contemptible,hateful,ignoble,meanspirited,mingy
+there:at that place,in that location,in that respect,on that point,thither
+few:aristocracy,beau monde,bon ton,chosen,clerisy,cream,elect,high society,intelligentsia,nobility
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+four:0,1,2,3,4,5,6,7,8,9
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+primary:basal,basic,capital,chief,direct,elemental,elementary,essential,first,first-string
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+on:along
+initial:A,B,C,D,E,F,G,H,I,J
+level:A level,GCSE,General Certificate of Secondary Education,Klein bottle,Mobius strip,O level,SPF,acme,actinism,action
+severity:Puritanism,asperity,austereness,badness,bareness,burdensomeness,chasteness,distressfulness,effortfulness,emphasis
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+impairment:abasement,acceleration,amputation,animalisation,animalization,anorgasmia,astasia,avulsion,bandy leg,bandy legs
+explain:account,account for,acquaint,add,advise,alibi,announce,answer,append,apprise
+relative:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+lack:absence,dearth,deficiency,deficit,famine,mineral deficiency,necessity,shortage,shortness,stringency
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+findings:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+primary:basal,basic,capital,chief,direct,elemental,elementary,essential,first,first-string
+present:accord,account,acquaint,act,add,administer,advise,allot,allow,animalise
+only:alone,but,entirely,exclusively,just,merely,only if,only when,simply,solely
+subgroup:Abelian group,accumulation,actinide,actinoid,actinon,aggregation,arrangement,assemblage,association,bench
+who:Centre for International Crime Prevention,DCCP,FAO,Food and Agriculture Organization,Food and Agriculture Organization of the United Nations,GATT,General Agreement on Tariffs and Trade,IAEA,IBRD,ICAO
+more:many,more than,much
+severely:badly,gravely,hard,seriously,sternly
+depressed:blue,dejected,dispirited,down,down in the mouth,downcast,downhearted,gloomy,grim,low
+functionally:
+there:at that place,in that location,in that respect,on that point,thither
+some:any,both,extraordinary,few,many,much,several,whatever,whatsoever
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+interpersonal:social
+psychotherapy:EMDA,Freudian psychology,HRT,Jungian psychology,actinotherapy,alienism,analysis,aromatherapy,behavior modification,behavior therapy
+strong:alcoholic,beardown,beefed-up,brawny,bullnecked,bullocky,effective,effectual,efficacious,equipotent
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+effectiveness:chokehold,control,discretion,disposal,effectivity,effectuality,effectualness,efficaciousness,efficacy,free will
+imipramine:Adapin,Elavil,Imavate,Pamelor,Sinequan,Surmontil,Tofranil,amitriptyline,amitriptyline hydrochloride,clomipramine
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+there:at that place,in that location,in that respect,on that point,thither
+no:no more
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+placebo:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Fosamax,HAART,Imuran,Inocor
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+clinical:nonsubjective,objective
+less:fewer,inferior,little,slight
+severely:badly,gravely,hard,seriously,sternly
+depressed:blue,dejected,dispirited,down,down in the mouth,downcast,downhearted,gloomy,grim,low
+functionally:
+impaired:afflicted,anosmic,broken,damaged,dickey,dicky,diminished,dysfunctional,dyslectic,dyslexic
+between:'tween,betwixt
+analyzed:
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+designed:fashioned,intentional
+test:abound,accept,account,account for,act,add up,adhere,adjudge,adorn,amount
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+efficacious:effective,effectual,efficient,hard-hitting,impelling,impressive,potent,powerful,rough-and-ready,stiff
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+mild:balmy,clement,gentle,humble,meek,mild-mannered,moderate,modest,soft,temperate
+moderate:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abnegate,accelerate,accustom
+major:better,leading,major(,prima,senior,star,starring,stellar
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+relation:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+reduction:about-face,addition reaction,adjustment,adulteration,aldol reaction,alleviation,alteration,amortisation,amortization,chain reaction
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+on:along
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+source:Golconda,McBurney's point,absorption,abutment,acidification,adiabatic process,aeration,affirmer,afflatus,airfield
+contentious:argumentative,combative,controversial,disputatious,disputative,litigious
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+demonstrated:incontestable,incontestible
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+range:Mandelbrot set,Primus,Primus stove,airfield,alphabet soup,ambit,approximate range,aquifer,arboretum,area
+effect:Coriolis effect,Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,aftereffect,aftermath
+inclusion:Russell's body,absurd,acceptance,accrual,accruement,accumulation,addition,advance,aggrandisement,aggrandizement
+heterogeneity:diverseness,diversity,heterogeneousness,inconsistency,multifariousness,variety
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+influence:Coriolis effect,Moloch,aftereffect,aftermath,backwash,bandwagon effect,branch,brisance,butterfly effect,by-product
+effect:Coriolis effect,Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,aftereffect,aftermath
+extent:absolute magnitude,acme,ambit,amount,amplitude,area,bound,boundary,bulk,climax
+influence:Coriolis effect,Moloch,aftereffect,aftermath,backwash,bandwagon effect,branch,brisance,butterfly effect,by-product
+publication:advertising,agribusiness,agriculture,anomalous communication,auditory communication,black and white,book,building,butchering,butchery
+bias:Eurocentrism,Islamophobia,anthropocentricity,anthropocentrism,asymptote,chord,diagonal,diameter,element,ethnocentrism
+also:as well,besides,likewise,too
+controlled:contained,disciplined,dominated,harnessed,obsessed,possessed,price-controlled,regimented,restrained
+identified:known
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+recent:late,new,past
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+major:better,leading,major(,prima,senior,star,starring,stellar
+electronic:
+included:enclosed
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+people:Achaean,Aeolian,Arcado-Cyprians,Dorian,Ionian,accumulation,actinide,actinoid,actinon,age bracket
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+major:better,leading,major(,prima,senior,star,starring,stellar
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+on:along
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+comparing:PM,analogy,audit,autopsy,bank examination,checkup,collation,comparison,confrontation,contrast
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+control:New Deal,ablactation,absolution,absolutism,acting,action,action mechanism,activating,activation,actuator
+random:ergodic,haphazard,hit-or-miss,stochastic
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+calculating:calculative,conniving,hard,scheming,shrewd
+standardized:exchangeable,interchangeable,replaceable,similar,standard,standardised
+mean:average,awful,base,bastardly,beggarly,contemptible,hateful,ignoble,meanspirited,mingy
+difference:Fibonacci number,ability,accuracy,addend,adequacy,air,allomerism,amorality,appearance,arability
+confidence:anticipation,assurance,authority,blood brotherhood,certitude,cocksureness,companionship,company,expectation,fellowship
+trim:French,abate,abbreviate,abound,abridge,accept,account,account for,act,add up
+fill:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accommodate,accustom
+fail-safe:safe,secure
+n:A,Ac,Ar,As,At,B,Bh,Br,C,Cl
+included:enclosed
+comparing:PM,analogy,audit,autopsy,bank examination,checkup,collation,comparison,confrontation,contrast
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+control:New Deal,ablactation,absolution,absolutism,acting,action,action mechanism,activating,activation,actuator
+comparison:PM,affinity,analogy,association,audit,autopsy,bank examination,business relation,causality,change
+9:0,1,2,3,4,5,6,7,8,Captain Hicks
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+large:Brobdingnagian,ample,astronomic,astronomical,banging,bear-sized,big,bigger,biggish,blown-up
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+effect:Coriolis effect,Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,aftereffect,aftermath
+on:along
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+adjusted:altered,familiarised,familiarized,focused,orientated,oriented,weighted,well-adjusted,well-balanced
+publication:advertising,agribusiness,agriculture,anomalous communication,auditory communication,black and white,book,building,butchering,butchery
+bias:Eurocentrism,Islamophobia,anthropocentricity,anthropocentrism,asymptote,chord,diagonal,diameter,element,ethnocentrism
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+fail-safe:safe,secure
+number:4to,8vo,ABA transit number,Arabic numeral,BIN,Crown,Fibonacci number,Hindu numeral,Hindu-Arabic numeral,I.D.
+adjusted:altered,familiarised,familiarized,focused,orientated,oriented,weighted,well-adjusted,well-balanced
+publication:advertising,agribusiness,agriculture,anomalous communication,auditory communication,black and white,book,building,butchering,butchery
+bias:Eurocentrism,Islamophobia,anthropocentricity,anthropocentrism,asymptote,chord,diagonal,diameter,element,ethnocentrism
+led:LED,OLED,light-emitting diode,organic light-emitting diode
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+found:activate,actuate,appoint,arrange,attempt,base,build,constitute,devise,establish
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+aerobic:aerobiotic,aerophilic,aerophilous,oxidative
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+moderate:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abnegate,accelerate,accustom
+vigorous:energetic,robust
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+supervised:
+unsupervised:unattended
+larger:big,bigger,large
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+found:activate,actuate,appoint,arrange,attempt,base,build,constitute,devise,establish
+moderate:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abnegate,accelerate,accustom
+aerobic:aerobiotic,aerophilic,aerophilous,oxidative
+supervised:
+by:aside,away,past
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+large:Brobdingnagian,ample,astronomic,astronomical,banging,bear-sized,big,bigger,biggish,blown-up
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+antidepressant:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Edronax,Fosamax,HAART,Imuran
+effect:Coriolis effect,Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,aftereffect,aftermath
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+people:Achaean,Aeolian,Arcado-Cyprians,Dorian,Ionian,accumulation,actinide,actinoid,actinon,age bracket
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+due:ascribable,attributable,callable,cod,collect,collectable,collectible,delinquent,expected,imputable
+publication:advertising,agribusiness,agriculture,anomalous communication,auditory communication,black and white,book,building,butchering,butchery
+data:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+strongly:powerfully
+support:Kinetoscope,PTO,abutment,accommodation,accompaniment,acoustic device,acting,activating,activation,actus reus
+claim:access,accession,accusation,admission,admittance,advowson,affirmation,allegation,allegement,avouchment
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+major:better,leading,major(,prima,senior,star,starring,stellar
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+complex:Electra complex,Oedipal complex,Oedipus complex,U308,acceptor,acid,adduct,affect,affection,affectionateness
+very:identical,precise,same,selfsame
+low:abject,alto,baritone,bass,blue,broken,contemptible,contrabass,contralto,crushed
+remission:absolution,atonement,benefit,blood money,bonus,bribe,cash,conscience money,conversion,credit
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+some:any,both,extraordinary,few,many,much,several,whatever,whatsoever
+encouraging:exhortative,exhortatory,heartening,helpful,hopeful,hortative,hortatory,inspiriting,promotive,rallying
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+alternative:alternate,disjunctive,secondary,substitute,unconventional
+therapy:EMDA,HRT,actinotherapy,aftercare,allopathy,anticoagulation,aromatherapy,bandaging,binding,bloodletting
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+other:another,different,early,former,new,opposite,otherwise,past,separate,some other
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+impact:Coriolis effect,affaire d'honneur,affray,aftereffect,aftermath,backwash,bandwagon effect,banging,battering,beating
+on:along
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+functioning:action,activity,biological process,chelation,dealignment,decrease,decrement,defining,degeneration,development
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+moderate:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abnegate,accelerate,accustom
+intensity:SPF,absolute magnitude,acoustic power,amount,amplitude,amplitude level,badness,bulk,caliber,calibre
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+adjuvant:accessory,adjunct,ancillary,appurtenant,auxiliary,helpful,supportive
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+physical:animal,bodily,carnal,corporal,corporeal,energetic,fleshly,forceful,forcible,material
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+adjunctive:connected
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+major:better,leading,major(,prima,senior,star,starring,stellar
+depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
+received:acceptable,classical,conventional,standard
+considerable:appreciable,big,goodish,goodly,healthy,hefty,large,respectable,right smart,significant
+attention:TLC,absorption,acquisition,action,address,aid,alertness,apperception,attending,attentiveness
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+recent:late,new,past
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+effects:chattel,clobber,movable,personal chattel,personal effects,stuff
+two:0,1,2,3,4,5,6,7,8,9
+different:antithetic,antithetical,assorted,contrary,contrasting,contrastive,diametric,diametrical,disparate,dissimilar
+add-on:accessory,addition,additive,afterthought,annex,annexe,appurtenance,attachment,audio,auto accessory
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+basic:alkalic,alkaline,basal,base,canonic,canonical,elemental,elementary,first,fundamental
+body:Christendom,Christianity,College of Cardinals,Jewry,Sacred College,abdomen,acknowledgement,acknowledgment,actinism,administration
+awareness:aesthesia,apprehension,cognisance,cognizance,consciousness,discernment,ego,esthesia,farsightedness,feel
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+increasingly:more and more,progressively
+recognized:accepted,acknowledged,constituted,established,recognised
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+major:better,leading,major(,prima,senior,star,starring,stellar
+even:equal,fifty-fifty,flat,flatbottom,flatbottomed,flush,justified,lap-jointed,level,plane
+older:aged,elder,elderly,experienced,experient,old,senior,sr.
+it:EE,IT,aeronautical engineering,architectural engineering,bioengineering,bionics,biotechnology,chemical engineering,civil engineering,computer science
+still:calm,inactive,motionless,noneffervescent,nonmoving,placid,quiet,silent,smooth,soundless
+unknown:anon.,anonymous,chartless,inglorious,little-known,nameless,obscure,strange,unacknowledged,unbeknown
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
+somatic:bodily,corporal,corporeal,physical
+timing:approach,approaching,chronological sequence,chronological succession,coming,coordination,devaluation,earliness,futurity,gun control
+aim:address,aspire,be after,calculate,charge,deploy,design,direct,draw a bead on,dress
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+examine:accept,adjudge,analyse,analyze,anatomize,anticipate,appraise,approve,ascribe,assay
+depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+after:afterward,afterwards,later,later on,subsequently
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
