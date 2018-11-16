@@ -1,0 +1,283 @@
+objective,evaluate,effect on severity,Obj
+animals,were divided into,five groups,Obj
+treatment,is with,dexamethasone,Obj
+Brain stimulation,has emerged as,treatment for range,Obj
+Parkinson 's disease epilepsy,have,FDA indications for electrical brain stimulation,Obj
+implantable brain devices,is with,local computing resources,Obj
+Epilepsy,is disease,might benefit,Obj
+clinical trials,have demonstrated,seizure forecasting seizure detection in patients with drug-resistant focal epilepsy,Obj
+resources,wirelessly coupled to,device with payloads,Obj
+low demand analytics,are,embedded,Obj
+system,enables,tracking of epileptic networks operating over time scales ranging from milliseconds,Obj
+aim,compare,safety,Obj
+We,performed,paralleled,Obj
+European Quality,significantly increased in,LEV-ER-treated group,Obj
+LEV-ER,has,similar tolerability,Obj
+LEV-ER treatment,improved,health-related quality of life,Obj
+remaining individual,is of,consanguineous descent,Obj
+We,report,STRADA gene deletion in two sisters from parents,Obj
+His epileptic spasms,were,refractory,Obj
+Electroencephalography,revealed,diffuse epileptic discharge,Obj
+corpus callosotomy,was,performed,Obj
+he,experience once,partial seizures,Obj
+his developmental state,had returned to,levels,Obj
+purpose,compare efficacy with,AEDs,Obj
+study,compared,efficacy of AEDs,Obj
+Patients,were,subdivided,Obj
+rates,were,computed,Obj
+response,complete disappearance in,EEG responders,Obj
+children,is with,RE,Obj
+effects,is in,rat model of PTZ-induced epilepsy,Obj
+management,might differ according to,age groups,Obj
+stakeholder consensus,expert on,PNES management,Obj
+board,comprising,neurologists neuropsychologists psychiatrists pharmacologists experts in medicine,Obj
+board,chose,five topics,Obj
+board,met After,systematic review of literature,Obj
+consultations,were,held,Obj
+global level,was,low,Obj
+approach,comply with,recommendations,Obj
+Seizures ' induction,was,considered,Obj
+persons,is with,PNES,Obj
+PNES management,should,should multidisciplinary,Obj
+High-quality studies,standardize,PNES management,Obj
+article,is,protected,Obj
+application,is,novel,Obj
+we,first evaluated,performance,Obj
+Performance,was further compared to,detection strategy implemented in loop neurostimulation device for treatment,Obj
+results,show,performance,Obj
+we,implemented,feature extraction of Random Forest classifier,Obj
+feature,is,efficient,Obj
+seizures,using,antiepileptics,Obj
+Pharmacoresistance,is,defined,Obj
+seizures,had,had intractable in maximum tolerable doses,Obj
+calcium channel blocker,overcome pharmacoresistance with,satisfactory seizure control,Obj
+few studies,are in,patient with status epilepticus,Obj
+We,intend,publish,Obj
+Anterior nucleus,common treatment for,epilepsy,Obj
+depression,display,association,Obj
+Anterior nucleus,has,connections to anterior cingulate cortex hence possible role in emotional functions,Obj
+Our aim,evaluate,psychiatric symptoms in patients,Obj
+Programming-related psychiatric adverse effects,are,reported,Obj
+evaluation,was,performed,Obj
+visit,was,one year,Obj
+sudden depressive symptoms,related to,DBS programming settings,Obj
+two patients,is with,previous histories of psychosis,Obj
+psychiatric adverse effects,majority of,our ANT DBS patients,Obj
+Certain DBS parameters,might predispose to,depressive,Obj
+Vitamin D deficiency,is,highly prevalent,Obj
+Lack,led to,variability among societies recommendations,Obj
+we,determine,efficacy of doses used in practice,Obj
+King Saud University Medical City,is in,Riyadh,Obj
+OH vitamin D level,receive,Cholecalciferol four hundred IU,Obj
+Our primary outcome,is proportion of,children,Obj
+Secondary outcomes,include,seizure treatment failure seizure frequency hormone levels,Obj
+children,is with,epilepsy,Obj
+results,shaping,current vitamin D guidelines for vitamin D supplementation,Obj
+surgical treatment,is with,mesial temporal lobe tumor,Obj
+Two pediatric cases,treated successfully with,tumor removal alone,Obj
+case,was,eleven girl with ganglioglioma in uncus,Obj
+Tumor removal,was performed under,electrocorticography,Obj
+seizures,disappeared in,cases,Obj
+Immunological mechanisms,lead to,seizures,Obj
+glatiramer acetate,could protect rats from,pilocarpine-induced seizures,Obj
+GA group,was given,saline injection prior to seizures,Obj
+Seizure susceptibility severity,were,evaluated,Obj
+chronic seizures,were evaluated by,long-term video recording,Obj
+TNF-a level,was determined at,SRS stage,Obj
+effect,using,patch-clamp technology,Obj
+GA,Mechanistically reduced peak amplitude with,negative shift,Obj
+Sodium channel attenuation,was independent of,immunomodulatory effect,Obj
+treatment-emergent adverse events,is in,patients taking for focal seizures,Obj
+Patients,were randomized to,placebo ESL,Obj
+TEAEs TEAEs,were,evaluated in patients at baseline,Obj
+results,were,similar,Obj
+potential pharmacodynamic interaction,is with,putatively similar mechanism of action,Obj
+Statins,are,inhibitors,Obj
+Several studies,have indicated,neuroprotective effects of statins on conditions,Obj
+role,is,unclear,Obj
+purpose,evaluate,level of evidence on efficacy in hyperexcitability,Obj
+systematic review,was,performed,Obj
+accompanied,use of,inhibitor of HMG-CoA reductase,Obj
+systematic literature search,was,performed,Obj
+It,was,evaluated,Obj
+Sixteen studies,were,conducted,Obj
+Most studies,is in,mice,Obj
+studies,were performed in,geriatric population,Obj
+possible mechanism,may,may related to reduction in neuroinflammation mediated by decrease in pro-inflammatory cytokines in system,Obj
+Further studies,evaluating,impact of statins on seizure control,Obj
+two patients,received,adjunctive perampanel,Obj
+Patients,could enter,Study,Obj
+pharmacokinetic analysis,assessed effects During,Study,Obj
+patients,entered,Study two hundred thirty three,Obj
+perampanel,demonstrated,safety profile in Japanese patients with POS,Obj
+meta-analysis paper,describes,analysis of clinical studies on treatment of refractory epilepsy,Obj
+we,investigated,attempting,Obj
+daily dose,ranged with,treatment length,Obj
+Patients,treated with,CBD-rich extracts,Obj
+reports,were,frequent in products than in CBD-rich extracts,Obj
+CBD-rich extracts,present,profile,Obj
+CBD,is with,other phytocompounds,Obj
+interest,is in,cannabidiol,Obj
+practitioner,has,attitudes concerning,Obj
+survey,using,online questionnaire for physicians,Obj
+side effects,adjusting,therapy,Obj
+patient,has,quality of life,Obj
+differing views,manage,CBD treatment,Obj
+imbalance,is mechanism of,epilepsy,Obj
+GCK,release of,GABA,Obj
+expression,attenuate,function of NMDA receptors in brain,Obj
+rat model,was established with,Pentylenetetrazole,Obj
+Racine 's scale,evaluate,seizure activity,Obj
+levels,were,detected,Obj
+GCK,deceased,seizure intensity,Obj
+GCK,increased contents,contents of glutamate remained,Obj
+GCK,exerted,effects,Obj
+Neurology,of Academy is,AAN,Obj
+Two thousand four criteria,review,literature,Obj
+articles,were,included,Obj
+TRCFE,for zonisamide is,six-seventeen years,Obj
+text,presents,Level C recommendations,Obj
+AED selection,depends on,seizure/syndrome type patient age medications,Obj
+assessment,indicates,seizure types,Obj
+recent FDA strategy,allows extrapolation for,epilepsy eslicarbazepine as add-on,Obj
+temporal lobe epilepsy,is,epilepsy,Obj
+saikosaponin A,selectively increase,the,Obj
+mechanisms,However remain,unclear,Obj
+in spontaneous seizures,were,recorded,Obj
+antiepileptic drug,is in,dogs,Obj
+pharmacokinetics,is in,epileptic dogs,Obj
+teady-state maintenance treatment,is with,LEV-XR LEV-XR,Obj
+Blood samples,was administered with,food,Obj
+Plasma LEV concentrations,were determined by,chromatography,Obj
+mixed effects,analyze,data,Obj
+Treatment group,accounted for,most of interindividual variation,Obj
+LP group,had,lower CMAX,Obj
+plasma concentration,of slope is,approximately five hours,Obj
+variation,exists in,pharmacokinetics in dogs with epilepsy,Obj
+Concurrent administration,contributed significantly to,variation,Obj
+Other factors evaluated,contribute to,variability,Obj
+Drug monitoring,determine,appropriate dose in individual dogs,Obj
+Epilepsy,is,brain disorder characterized by sudden seizures,Obj
+our goal,delay,process of epileptogenesis,Obj
+system,has,promise,Obj
+such medicinal plant,is,Eclipta alba,Obj
+juice,is,pounded,Obj
+we,formulated coumarin fraction for,its nasal delivery,Obj
+CNF,using performance chromatography for,its drug content determination,Obj
+Formulation,was found,non-irritant in HET-CAM assay,Obj
+attainment,progress of,pentylenetetrazole in mice,Obj
+changes,were assessed by,hematoxylin,Obj
+Glial protein,were,measured,Obj
+pretreatment,delayed,progression of seizure similar to diazepam,Obj
+PTZ,induced GFAP levels in,midbrain tissue,Obj
+CNF,offer protection from,sudden recurrent seizures,Obj
+lesions,associated with,epilepsy,Obj
+stereotactic radiosurgery,has,has reported as treatment modality for small to medium-size intrahypothalamic hamartomas,Obj
+report,describes,use of frameless radiosurgery,Obj
+patients,experienced,seizures,Obj
+treatment,starting after,about three months,Obj
+generalized seizures,disappeared,complete resolution of gelastic seizures required,Obj
+treatment,since years is,case II,Obj
+CyberKnife radiosurgery,be,non-invasive treatment,Obj
+Background,applied in,surgery of convexital tumors,Obj
+aim,show,advantages without sedation accompanied by intraoperative monitoring in patients with epilepsy,Obj
+article,results of,surgical treatment in forty one patients,Obj
+Results,located in,frontal lobes,Obj
+Minor complications,were,handled,Obj
+method,provides resection with,complication rate,Obj
+Treatment,is effective,can reliably identified,Obj
+differentiation,can,can challenging mainly in patients without MRI lesions,Obj
+Such variable,are,caused,Obj
+network algorithm,analyzes,centrality signatures of contact electrode,Obj
+algorithm,was,tested,Obj
+Our algorithm,had,higher agreement with EZ regions identified,Obj
+network systems perspective,be,useful,Obj
+children,is with,newly diagnosed benign epilepsy of childhood,Obj
+records,were,reviewed retrospectively,Obj
+patients,underwent,language tests,Obj
+Effects,were,compared,Obj
+significant improvements,is in,parameters assessed by Test of Language Problem Solving,Obj
+Patients,is in,oxcarbazepine group,Obj
+linguistic index scores,were worse except for,Mean Length of Utterance in Words,Obj
+significant improvements,is in,receptive language test,Obj
+improvements,were,greater for lamotrigine than for topiramate,Obj
+epilepsy,is,self-limited,Obj
+diagnosis,is,presumed,Obj
+we,hypothesize,seizure risk decreases in time,Obj
+We,calculate,seizure risk,Obj
+We,use,survival analysis,Obj
+Patients,were censored,lost,Obj
+subsequent seizure,Two-thirds of,children,Obj
+majority,had,seizure,Obj
+subsequent seizure,one-third of,children,Obj
+impact,is in,later years,Obj
+subsequent seizure,majority of,children,Obj
+Future prospective studies,validate,findings,Obj
+fifty six patients,is with,seizures,Obj
+Sodium channel blocking AEDs,were,associated with seizure freedom in four patients,Obj
+AEDs,is with,NCB-blocking properties,Obj
+Levetiracetam,appears,ineffective in patient population,Obj
+Adipose tissue,is organ with,different effects,Obj
+effects,are,mediated,Obj
+It,has,important role,Obj
+aim,review,association between leptin,Obj
+databases,were searched For,purpose,Obj
+studies,suggest,influence on higher brain functions,Obj
+animal studies,Indeed have demonstrated,role,Obj
+opens,new way for,development of interventions in diseases like epilepsy,Obj
+investigations,clarify,dynamics of leptin,Obj
+It,is primarily managed with,drugs,Obj
+administration,is mainstay of,AED delivery for patients with epilepsy,Obj
+Extended-release formulations,release drug during,extended period of time,Obj
+simplification,is in,peak-to-trough fluctuations,Obj
+discusses,advantages over,IR formulations,Obj
+weaknesses,is,provided,Obj
+patients,is with,ER formulations,Obj
+Detection,plays role in,treatment,Obj
+identification,is,cumbersome,Obj
+automated tool,is essential for,clinical diagnosis,Obj
+study,proposes,algorithm,Obj
+preprocessing,remove,motion artifacts,Obj
+analysis,ensure,suitability of features for pattern classification,Obj
+Single,were,fed,Obj
+proposed study,is suitable for,real-time seizure recognition,Obj
+graphical user interface,was developed in,MATLAB,Obj
+seizures,is in,patients with treatment-refractory epilepsy,Obj
+attention,has,has paid,Obj
+aim,provide,comprehensive overview,Obj
+literature,using,approach,Obj
+patient,of,experience cognitive improvements,Obj
+improvement,is in,global cognition,Obj
+improvements,are caused by,seizure reduction,Obj
+KD,is,when started,Obj
+patients,is with,epilepsy,Obj
+persistence,necessitates,therapeutic solutions,Obj
+on-demand drug delivery,for pump is,FIP,Obj
+ions,thereby delivers,drug,Obj
+delivery,enables,drug release into brain region with negligible pressure increase,Obj
+therapeutic potential,is tested in,rodent model,Obj
+FIP probe,can detect,pathological activity,Obj
+applications,further tailored engineering of,FIP platform,Obj
+Pyridoxine epilepsy,is,condition,Obj
+Alpha-amino semialdehyde piperidine-six-carboxylic acid,are,known,Obj
+We,report,development of hydrophilic interaction liquid chromatography hyphenated with mass spectroscopy,Obj
+analytes,were,stable in stock solution in matrix,Obj
+method,using,samples,Obj
+healthy samples,is with,literature,Obj
+developed method,has,simple sample preparation,Obj
+common mechanisms,have,proposed,Obj
+first step,is in,phosphoinositide recycling pathway implicated,Obj
+They,also regulate,levels,Obj
+ablation,results in,sensitivity to acute effects on cell behaviour,Obj
+Loss,provides,sensitivity in extended exposure during development,Obj
+dgkA mutant,is,resistant to effects with seizure control activity to bipolar disorder treatment lithium,Obj
+epilepsy treatments,function through,DAG regulation,Obj
+new compounds,should,should investigated as therapeutic agents.This article,Obj
+adjunctive therapy,is in,patients,Obj
+retention rates,is in,focal-onset epilepsy patients with IDD,Obj
+retention rates,were significantly lower in,patients,Obj
+use,was,predictor,Obj
+analysis,was performed In,subgroup of patients,Obj
+patients,is with,IDD,Obj
+rates,were higher,rates suggested with previously registered AEDs including lamotrigine levetiracetam,Obj
+lacosamide,is well-retained drug with,high efficacy profile in patients with focal-onset epilepsy,Obj

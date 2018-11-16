@@ -1,0 +1,566 @@
+objective
+effect on severity
+animals
+five groups
+treatment
+dexamethasone
+Brain stimulation
+treatment for range
+Parkinson 's disease epilepsy
+FDA indications for electrical brain stimulation
+implantable brain devices
+local computing resources
+Epilepsy
+might benefit
+clinical trials
+seizure forecasting seizure detection in patients with drug-resistant focal epilepsy
+resources
+device with payloads
+low demand analytics
+embedded
+system
+tracking of epileptic networks operating over time scales ranging from milliseconds
+aim
+safety
+We
+paralleled
+European Quality
+LEV-ER-treated group
+LEV-ER
+similar tolerability
+LEV-ER treatment
+health-related quality of life
+remaining individual
+consanguineous descent
+We
+STRADA gene deletion in two sisters from parents
+His epileptic spasms
+refractory
+Electroencephalography
+diffuse epileptic discharge
+corpus callosotomy
+performed
+he
+partial seizures
+his developmental state
+levels
+purpose
+AEDs
+study
+efficacy of AEDs
+Patients
+subdivided
+rates
+computed
+response
+EEG responders
+children
+RE
+effects
+rat model of PTZ-induced epilepsy
+management
+age groups
+stakeholder consensus
+PNES management
+board
+neurologists neuropsychologists psychiatrists pharmacologists experts in medicine
+board
+five topics
+board
+systematic review of literature
+consultations
+held
+global level
+low
+approach
+recommendations
+Seizures ' induction
+considered
+persons
+PNES
+PNES management
+should multidisciplinary
+High-quality studies
+PNES management
+article
+protected
+application
+novel
+we
+performance
+Performance
+detection strategy implemented in loop neurostimulation device for treatment
+results
+performance
+we
+feature extraction of Random Forest classifier
+feature
+efficient
+seizures
+antiepileptics
+Pharmacoresistance
+defined
+seizures
+had intractable in maximum tolerable doses
+calcium channel blocker
+satisfactory seizure control
+few studies
+patient with status epilepticus
+We
+publish
+Anterior nucleus
+epilepsy
+depression
+association
+Anterior nucleus
+connections to anterior cingulate cortex hence possible role in emotional functions
+Our aim
+psychiatric symptoms in patients
+Programming-related psychiatric adverse effects
+reported
+evaluation
+performed
+visit
+one year
+sudden depressive symptoms
+DBS programming settings
+two patients
+previous histories of psychosis
+psychiatric adverse effects
+our ANT DBS patients
+Certain DBS parameters
+depressive
+Vitamin D deficiency
+highly prevalent
+Lack
+variability among societies recommendations
+we
+efficacy of doses used in practice
+King Saud University Medical City
+Riyadh
+OH vitamin D level
+Cholecalciferol four hundred IU
+Our primary outcome
+children
+Secondary outcomes
+seizure treatment failure seizure frequency hormone levels
+children
+epilepsy
+results
+current vitamin D guidelines for vitamin D supplementation
+surgical treatment
+mesial temporal lobe tumor
+Two pediatric cases
+tumor removal alone
+case
+eleven girl with ganglioglioma in uncus
+Tumor removal
+electrocorticography
+seizures
+cases
+Immunological mechanisms
+seizures
+glatiramer acetate
+pilocarpine-induced seizures
+GA group
+saline injection prior to seizures
+Seizure susceptibility severity
+evaluated
+chronic seizures
+long-term video recording
+TNF-a level
+SRS stage
+effect
+patch-clamp technology
+GA
+negative shift
+Sodium channel attenuation
+immunomodulatory effect
+treatment-emergent adverse events
+patients taking for focal seizures
+Patients
+placebo ESL
+TEAEs TEAEs
+evaluated in patients at baseline
+results
+similar
+potential pharmacodynamic interaction
+putatively similar mechanism of action
+Statins
+inhibitors
+Several studies
+neuroprotective effects of statins on conditions
+role
+unclear
+purpose
+level of evidence on efficacy in hyperexcitability
+systematic review
+performed
+accompanied
+inhibitor of HMG-CoA reductase
+systematic literature search
+performed
+It
+evaluated
+Sixteen studies
+conducted
+Most studies
+mice
+studies
+geriatric population
+possible mechanism
+may related to reduction in neuroinflammation mediated by decrease in pro-inflammatory cytokines in system
+Further studies
+impact of statins on seizure control
+two patients
+adjunctive perampanel
+Patients
+Study
+pharmacokinetic analysis
+Study
+patients
+Study two hundred thirty three
+perampanel
+safety profile in Japanese patients with POS
+meta-analysis paper
+analysis of clinical studies on treatment of refractory epilepsy
+we
+attempting
+daily dose
+treatment length
+Patients
+CBD-rich extracts
+reports
+frequent in products than in CBD-rich extracts
+CBD-rich extracts
+profile
+CBD
+other phytocompounds
+interest
+cannabidiol
+practitioner
+attitudes concerning
+survey
+online questionnaire for physicians
+side effects
+therapy
+patient
+quality of life
+differing views
+CBD treatment
+imbalance
+epilepsy
+GCK
+GABA
+expression
+function of NMDA receptors in brain
+rat model
+Pentylenetetrazole
+Racine 's scale
+seizure activity
+levels
+detected
+GCK
+seizure intensity
+GCK
+contents of glutamate remained
+GCK
+effects
+Neurology
+AAN
+Two thousand four criteria
+literature
+articles
+included
+TRCFE
+six-seventeen years
+text
+Level C recommendations
+AED selection
+seizure/syndrome type patient age medications
+assessment
+seizure types
+recent FDA strategy
+epilepsy eslicarbazepine as add-on
+temporal lobe epilepsy
+epilepsy
+saikosaponin A
+the
+mechanisms
+unclear
+in spontaneous seizures
+recorded
+antiepileptic drug
+dogs
+pharmacokinetics
+epileptic dogs
+steady-state maintenance treatment
+LEV-XR LEV-XR
+Blood samples
+food
+Plasma LEV concentrations
+chromatography
+mixed effects
+data
+Treatment group
+most of interindividual variation
+LP group
+lower CMAX
+plasma concentration
+approximately five hours
+variation
+pharmacokinetics in dogs with epilepsy
+Concurrent administration
+variation
+Other factors evaluated
+variability
+Drug monitoring
+appropriate dose in individual dogs
+Epilepsy
+brain disorder characterized by sudden seizures
+our goal
+process of epileptogenesis
+system
+promise
+such medicinal plant
+Eclipta alba
+juice
+pounded
+we
+its nasal delivery
+CNF
+its drug content determination
+Formulation
+non-irritant in HET-CAM assay
+attainment
+pentylenetetrazole in mice
+changes
+hematoxylin
+Glial protein
+measured
+pretreatment
+progression of seizure similar to diazepam
+PTZ
+midbrain tissue
+CNF
+sudden recurrent seizures
+lesions
+epilepsy
+stereotactic radiosurgery
+has reported as treatment modality for small to medium-size intrahypothalamic hamartomas
+report
+use of frameless radiosurgery
+patients
+seizures
+treatment
+about three months
+generalized seizures
+complete resolution of gelastic seizures required
+treatment
+case II
+CyberKnife radiosurgery
+non-invasive treatment
+Background
+surgery of convexital tumors
+aim
+advantages without sedation accompanied by intraoperative monitoring in patients with epilepsy
+article
+surgical treatment in forty one patients
+Results
+frontal lobes
+Minor complications
+handled
+method
+complication rate
+Treatment
+can reliably identified
+differentiation
+can challenging mainly in patients without MRI lesions
+Such variable
+caused
+network algorithm
+centrality signatures of contact electrode
+algorithm
+tested
+Our algorithm
+higher agreement with EZ regions identified
+network systems perspective
+useful
+children
+newly diagnosed benign epilepsy of childhood
+records
+reviewed retrospectively
+patients
+language tests
+Effects
+compared
+significant improvements
+parameters assessed by Test of Language Problem Solving
+Patients
+oxcarbazepine group
+linguistic index scores
+Mean Length of Utterance in Words
+significant improvements
+receptive language test
+improvements
+greater for lamotrigine than for topiramate
+epilepsy
+self-limited
+diagnosis
+presumed
+we
+seizure risk decreases in time
+We
+seizure risk
+We
+survival analysis
+Patients
+lost
+subsequent seizure
+children
+majority
+seizure
+subsequent seizure
+children
+impact
+later years
+subsequent seizure
+children
+Future prospective studies
+findings
+fifty six patients
+seizures
+Sodium channel blocking AEDs
+associated with seizure freedom in four patients
+AEDs
+NCB-blocking properties
+Levetiracetam
+ineffective in patient population
+Adipose tissue
+different effects
+effects
+mediated
+It
+important role
+aim
+association between leptin
+databases
+purpose
+studies
+influence on higher brain functions
+animal studies
+role
+opens
+development of interventions in diseases like epilepsy
+investigations
+dynamics of leptin
+It
+drugs
+administration
+AED delivery for patients with epilepsy
+Extended-release formulations
+extended period of time
+simplification
+peak-to-trough fluctuations
+discusses
+IR formulations
+weaknesses
+provided
+patients
+ER formulations
+Detection
+treatment
+identification
+cumbersome
+automated tool
+clinical diagnosis
+study
+algorithm
+preprocessing
+motion artifacts
+analysis
+suitability of features for pattern classification
+Single
+fed
+proposed study
+real-time seizure recognition
+graphical user interface
+MATLAB
+seizures
+patients with treatment-refractory epilepsy
+attention
+has paid
+aim
+comprehensive overview
+literature
+approach
+patient
+experience cognitive improvements
+improvement
+global cognition
+improvements
+seizure reduction
+KD
+when started
+patients
+epilepsy
+persistence
+therapeutic solutions
+on-demand drug delivery
+FIP
+ions
+drug
+delivery
+drug release into brain region with negligible pressure increase
+therapeutic potential
+rodent model
+FIP probe
+pathological activity
+applications
+FIP platform
+Pyridoxine epilepsy
+condition
+Alpha-amino semialdehyde piperidine-six-carboxylic acid
+known
+We
+development of hydrophilic interaction liquid chromatography hyphenated with mass spectroscopy
+analytes
+stable in stock solution in matrix
+method
+samples
+healthy samples
+literature
+developed method
+simple sample preparation
+common mechanisms
+proposed
+first step
+phosphoinositide recycling pathway implicated
+They
+levels
+ablation
+sensitivity to acute effects on cell behaviour
+Loss
+sensitivity in extended exposure during development
+dgkA mutant
+resistant to effects with seizure control activity to bipolar disorder treatment lithium
+epilepsy treatments
+DAG regulation
+new compounds
+should investigated as therapeutic agents.This article
+adjunctive therapy
+patients
+retention rates
+focal-onset epilepsy patients with IDD
+retention rates
+patients
+use
+predictor
+analysis
+subgroup of patients
+patients
+IDD
+rates
+rates suggested with previously registered AEDs including lamotrigine levetiracetam
+lacosamide
+high efficacy profile in patients with focal-onset epilepsy

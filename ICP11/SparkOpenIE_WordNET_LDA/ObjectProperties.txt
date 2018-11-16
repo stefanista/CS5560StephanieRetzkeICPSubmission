@@ -1,0 +1,283 @@
+evaluate,Management,Misc,Func
+were divided into,Patient,Misc,Func
+is with,Patient,Chemical,Func
+has emerged as,Misc,Patient,Func
+have,Disease,Tissue,Func
+is with,Tissue,Misc,Func
+is disease,Misc,Misc,Func
+have demonstrated,Misc,Patient,Func
+wirelessly coupled to,Misc,Misc,Func
+are,Patient,Misc,Func
+enables,Misc,Patient,Func
+compare,Management,Misc,Func
+performed,Misc,Misc,Func
+significantly increased in,Misc,Chemical,Func
+has,Chemical,Misc,Func
+improved,Patient,Misc,Func
+is of,Misc,Misc,Func
+report,Misc,Gene,Func
+were,Disease,Management,Func
+revealed,Misc,Disease,Func
+was,Misc,Misc,Func
+experience once,Misc,Disease,Func
+had returned to,Patient,Misc,Func
+compare efficacy with,Misc,Disease,Func
+compared,Research,Disease,Func
+were,Misc,Misc,Func
+were,Patient,Misc,Func
+complete disappearance in,Misc,Misc,Func
+is with,Patient,Disease,Func
+is in,Symptom,Patient,Func
+might differ according to,Patient,Misc,Func
+expert on,Management,Patient,Func
+comprising,Misc,Misc,Func
+chose,Misc,Misc,Func
+met After,Misc,Patient,Func
+were,Misc,Misc,Func
+was,Misc,Misc,Func
+comply with,Misc,Patient,Func
+was,Misc,Misc,Func
+is with,Misc,Misc,Func
+should,Patient,Misc,Func
+standardize,Research,Patient,Func
+is,Research,Misc,Func
+is,Treatment,Misc,Func
+first evaluated,Misc,Patient,Func
+was further compared to,Patient,Patient,Func
+show,Misc,Patient,Func
+implemented,Misc,Misc,Func
+is,Misc,Misc,Func
+using,Disease,Treatment,Func
+is,Misc,Misc,Func
+had,Disease,Misc,Func
+overcome pharmacoresistance with,Chemical,Disease,Func
+are in,Research,Patient,Func
+intend,Misc,Misc,Func
+common treatment for,Tissue,Disease,Func
+display,Disease,Misc,Func
+has,Tissue,Misc,Func
+evaluate,Management,Patient,Func
+are,Symptom,Misc,Func
+was,Misc,Misc,Func
+was,Misc,Misc,Func
+related to,Disease,Disease,Func
+is with,Patient,Disease,Func
+majority of,Symptom,Patient,Func
+might predispose to,Disease,Disease,Func
+is,Symptom,Misc,Func
+led to,Misc,Patient,Func
+determine,Misc,Misc,Func
+is in,Misc,Misc,Func
+receive,Treatment,Chemical,Func
+is proportion of,Misc,Patient,Func
+include,Misc,Patient,Func
+is with,Patient,Disease,Func
+shaping,Misc,Patient,Func
+is with,Patient,Tissue,Func
+treated successfully with,Research,Tissue,Func
+was,Misc,Patient,Func
+was performed under,Misc,Misc,Func
+disappeared in,Disease,Research,Func
+lead to,Misc,Disease,Func
+could protect rats from,Chemical,Disease,Func
+was given,Misc,Disease,Func
+were,Misc,Misc,Func
+were evaluated by,Disease,Research,Func
+was determined at,Gene,Disease,Func
+using,Misc,Misc,Func
+Mechanistically reduced peak amplitude with,Misc,Misc,Func
+was independent of,Chemical,Misc,Func
+is in,Patient,Patient,Func
+were randomized to,Misc,Chemical,Func
+were,Misc,Patient,Func
+were,Misc,Misc,Func
+is with,Misc,Misc,Func
+are,Chemical,Misc,Func
+have indicated,Research,Symptom,Func
+is,Misc,Misc,Func
+evaluate,Misc,Misc,Func
+was,Misc,Misc,Func
+use of,Misc,Chemical,Func
+was,Patient,Misc,Func
+was,Misc,Misc,Func
+were,Research,Misc,Func
+is in,Research,Patient,Func
+were performed in,Research,Misc,Func
+may,Misc,Disease,Func
+evaluating,Research,Disease,Func
+received,Patient,Chemical,Func
+could enter,Misc,Misc,Func
+assessed effects During,Management,Misc,Func
+entered,Patient,Misc,Func
+demonstrated,Chemical,Patient,Func
+describes,Research,Patient,Func
+investigated,Misc,Misc,Func
+ranged with,Misc,Patient,Func
+treated with,Misc,Chemical,Func
+were,Misc,Chemical,Func
+present,Chemical,Misc,Func
+is with,Chemical,Treatment,Func
+is in,Management,Chemical,Func
+has,Patient,Misc,Func
+using,Misc,Misc,Func
+adjusting,Symptom,Treatment,Func
+has,Patient,Misc,Func
+manage,Misc,Patient,Func
+is mechanism of,Symptom,Disease,Func
+release of,Chemical,Chemical,Func
+attenuate,Misc,Tissue,Func
+was established with,Patient,Misc,Func
+evaluate,Misc,Disease,Func
+were,Misc,Misc,Func
+deceased,Chemical,Disease,Func
+increased contents,Chemical,Chemical,Func
+exerted,Chemical,Symptom,Func
+of Academy is,Misc,Misc,Func
+review,Research,Patient,Func
+were,Research,Misc,Func
+for zonisamide is,Misc,Misc,Func
+presents,Misc,Patient,Func
+depends on,Misc,Patient,Func
+indicates,Patient,Disease,Func
+allows extrapolation for,Patient,Disease,Func
+is,Tissue,Disease,Func
+selectively increase,Misc,Misc,Func
+However remain,Misc,Misc,Func
+were,Disease,Research,Func
+is in,Treatment,Patient,Func
+is in,Treatment,Patient,Func
+is with,Patient,Chemical,Func
+was administered with,Misc,Misc,Func
+were determined by,Patient,Misc,Func
+analyze,Symptom,Misc,Func
+accounted for,Patient,Misc,Func
+had,Misc,Misc,Func
+of slope is,Patient,Misc,Func
+exists in,Misc,Patient,Func
+contributed significantly to,Patient,Misc,Func
+contribute to,Misc,Misc,Func
+determine,Misc,Patient,Func
+is,Misc,Tissue,Func
+delay,Management,Misc,Func
+has,Misc,Misc,Func
+is,Misc,Misc,Func
+is,Misc,Misc,Func
+formulated coumarin fraction for,Misc,Management,Func
+using performance chromatography for,Misc,Treatment,Func
+was found,Misc,Misc,Func
+progress of,Patient,Patient,Func
+were assessed by,Misc,Misc,Func
+were,Misc,Misc,Func
+delayed,Patient,Chemical,Func
+induced GFAP levels in,Chemical,Tissue,Func
+offer protection from,Misc,Disease,Func
+associated with,Symptom,Disease,Func
+has,Treatment,Patient,Func
+describes,Misc,Treatment,Func
+experienced,Patient,Disease,Func
+starting after,Patient,Misc,Func
+disappeared,Disease,Disease,Func
+since years is,Patient,Misc,Func
+be,Treatment,Patient,Func
+applied in,Misc,Treatment,Func
+show,Management,Patient,Func
+results of,Research,Patient,Func
+located in,Misc,Tissue,Func
+were,Misc,Misc,Func
+provides resection with,Misc,Patient,Func
+is effective,Patient,Management,Func
+can,Management,Patient,Func
+are,Misc,Misc,Func
+analyzes,Misc,Misc,Func
+was,Misc,Misc,Func
+had,Misc,Patient,Func
+be,Misc,Misc,Func
+is with,Patient,Patient,Func
+were,Research,Misc,Func
+underwent,Patient,Misc,Func
+were,Misc,Misc,Func
+is in,Patient,Misc,Func
+is in,Misc,Misc,Func
+were worse except for,Misc,Misc,Func
+is in,Patient,Misc,Func
+were,Patient,Chemical,Func
+is,Disease,Misc,Func
+is,Misc,Misc,Func
+hypothesize,Misc,Disease,Func
+calculate,Misc,Disease,Func
+use,Misc,Management,Func
+were censored,Misc,Misc,Func
+Two-thirds of,Disease,Patient,Func
+had,Misc,Disease,Func
+one-third of,Disease,Patient,Func
+is in,Misc,Misc,Func
+majority of,Disease,Patient,Func
+validate,Research,Misc,Func
+is with,Patient,Disease,Func
+were,Disease,Patient,Func
+is with,Disease,Misc,Func
+appears,Misc,Patient,Func
+is organ with,Tissue,Symptom,Func
+are,Symptom,Misc,Func
+has,Misc,Misc,Func
+review,Management,Misc,Func
+were searched For,Misc,Misc,Func
+suggest,Research,Tissue,Func
+Indeed have demonstrated,Patient,Misc,Func
+new way for,Misc,Patient,Func
+clarify,Misc,Misc,Func
+is primarily managed with,Misc,Treatment,Func
+is mainstay of,Patient,Patient,Func
+release drug during,Misc,Misc,Func
+is in,Misc,Misc,Func
+advantages over,Misc,Misc,Func
+is,Misc,Misc,Func
+is with,Patient,Misc,Func
+plays role in,Misc,Patient,Func
+is,Misc,Misc,Func
+is essential for,Misc,Misc,Func
+proposes,Research,Misc,Func
+remove,Misc,Misc,Func
+ensure,Management,Misc,Func
+were,Misc,Misc,Func
+is suitable for,Research,Disease,Func
+was developed in,Misc,Misc,Func
+is in,Disease,Patient,Func
+has,Misc,Misc,Func
+provide,Management,Misc,Func
+using,Patient,Misc,Func
+of,Patient,Patient,Func
+is in,Patient,Misc,Func
+are caused by,Patient,Disease,Func
+is,Misc,Misc,Func
+is with,Patient,Disease,Func
+necessitates,Misc,Treatment,Func
+for pump is,Patient,Misc,Func
+thereby delivers,Misc,Treatment,Func
+enables,Management,Treatment,Func
+is tested in,Treatment,Research,Func
+can detect,Misc,Misc,Func
+further tailored engineering of,Treatment,Misc,Func
+is,Disease,Misc,Func
+are,Misc,Misc,Func
+report,Misc,Patient,Func
+were,Misc,Misc,Func
+using,Misc,Misc,Func
+is with,Misc,Patient,Func
+has,Misc,Patient,Func
+have,Misc,Management,Func
+is in,Misc,Misc,Func
+also regulate,Misc,Misc,Func
+results in,Misc,Symptom,Func
+provides,Misc,Patient,Func
+is,Misc,Patient,Func
+function through,Patient,Misc,Func
+should,Treatment,Treatment,Func
+is in,Treatment,Patient,Func
+is in,Patient,Patient,Func
+were significantly lower in,Patient,Patient,Func
+was,Misc,Misc,Func
+was performed In,Management,Patient,Func
+is with,Patient,Misc,Func
+were higher,Patient,Patient,Func
+is well-retained drug with,Misc,Patient,Func

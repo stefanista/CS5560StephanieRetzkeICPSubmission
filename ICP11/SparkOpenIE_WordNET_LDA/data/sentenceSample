@@ -1,0 +1,331 @@
+The objective of this study was to evaluate the effect of dexamethasone  on the severity of seizures and levels of pro-inflammatory interleukins in animals with kindling model induced by pentylenetetrazole in alternated days for fifteen days of treatment.
+The animals were divided into five groups: control group given saline  a group treated with diazepam and groups treated with dexamethasone.
+Open field test was conducted.
+The treatment with dexamethasone decreased the severity of seizures  also decreased TNF-alpha and Interleukin one beta levels in the hippocampus and TNF-alpha level in the serum.
+Brain stimulation has emerged as an effective treatment for a wide range of neurological and psychiatric diseases.
+Parkinson's disease  epilepsy  and essential tremor have FDA indications for electrical brain stimulation using intracranially implanted electrodes.
+Interfacing implantable brain devices with local and cloud computing resources have the potential to improve electrical stimulation efficacy  disease tracking  and management.
+Epilepsy  in particular  is a neurological disease that might benefit from the integration of brain implants with off-the-body computing for tracking disease and therapy.
+Recent clinical trials have demonstrated seizure forecasting  seizure detection  and therapeutic electrical stimulation in patients with drug-resistant focal epilepsy.
+In this paper  we describe a next-generation epilepsy management system that integrates local handheld and cloud-computing resources wirelessly coupled to an implanted device with embedded payloads (sensors  intracranial EEG telemetry  electrical stimulation  classifiers  and control policy implementation).
+The handheld device and cloud computing resources can provide a seamless interface between patients and physicians  and realtime intracranial EEG can be used to classify brain state (wake/sleep  preseizure  and seizure)  implement control policies for electrical stimulation  and track patient health.
+This system creates a flexible platform in which low demand analytics requiring fast response times are embedded in the implanted device and more complex algorithms are implemented in offthebody local and distributed cloud computing environments.
+The system enables tracking and management of epileptic neural networks operating over time scales ranging from milliseconds to months.
+PURPOSE: The aim of this trial was to compare the efficacy and safety of two formulations of levetiracetam in people with partial epilepsy over a twelve week treatment period.
+METHODS: We performed a randomized  paralleled  and multicenter trial that consisted of a four-week single-blind placebo run-in  followed by a twelve week double-blind  double-dummy treatment phase to compare the efficacy and safety of levetiracetam extended-release (LEV-ER) and immediate-release (LEV-IR) tablets as an adjunctive treatment in adult patients with uncontrolled epilepsy.
+No serious adverse events occurred during the trial period.
+The European Quality of Life-five Dimensions scores significantly increased in the LEV-ER-treated group  in contrast to the scores in the LEV-IR group  which decreased.
+CONCLUSION: These results suggest that LEV-ER is equivalent to LEV-IR in reducing the frequency of POS and has a similar tolerability as LEV-IR as an add-on therapy.
+In addition  LEV-ER treatment improved the health-related quality of life of people with uncontrolled partial epilepsy.
+To date  there have been seventeen reported individuals diagnosed with STRADA mutations  sixteen of which are from a single Old Order Mennonite cohort and share a deletion of exons nine-thirteen.
+The remaining individual is of consanguineous Indian descent and has a homozygous single-base pair duplication.
+We report a novel STRADA gene deletion of exons seven-ninne in two sisters from nonconsanguineous parents  as well as an improvement in seizure control in one sibling following treatment with sirolimus  an m-Tor inhibitor of potential benefit to patients with this genetic mutation.
+Approximately half of all patients develop epileptic seizures which are refractory in most cases despite active medical management.
+His frequent epileptic spasms  tonic  atonic  and partial seizures were refractory to multiple antiepileptic medications.
+Electroencephalography revealed continuous diffuse epileptic discharge  resulting in regression.
+A total corpus callosotomy (CC) was performed at the age of fourteen years and seven months.
+His seizures markedly decreased following CC  although he continued to experience brief partial seizures approximately once per month.
+Post-operative examination revealed that his epileptic discharges had disappeared  and that his developmental state had returned to pre-encephalopathy levels.
+PURPOSE: The main purpose of this study was to compare the efficacy of levetiracetam (LEV) with the older antiepileptic drugs (AEDs) for preventing atypical evolution in children with Rolandic epilepsy (RE).
+Accordingly  the present study compared the efficacy of older AEDs (carbamazepine (CBZ) and valproate sodium (VPA)) with LEV in reducing rolandic discharges (RDs) on interictal electroencephalogram (EEG) in children with RE.
+METHODS: Patients in this heterogenous study were subdivided into CBZ  VPA and LEV groups in accordance with the initial monotherapy.
+The CBZ and VPA groups were studied retrospectively  but the LEV group was studied prospectively.
+Appearances of discharges were counted and these rates were computed.
+The time taken to attain complete disappearance or response in EEG responders was assessed for each AED treatment group.
+Seizure control was not significantly different in all three investigated drugs.
+CONCLUSIONS: LEV seems to be superior to CBZ and VPA in its ability to suppress RDs in children with RE.
+OBJECTIVES: To examine the possible neuroprotective and antiepileptic effects of metformin in a rat model of PTZ-induced epilepsy and its possible underlying mechanisms.
+BACKGROUND: The International League Against Epilepsy (ILAE) proposed a diagnostic scheme for psychogenic nonepileptic seizures (PNES).
+The debate on ethical aspects of the diagnostic procedures is ongoing  the treatment is not standardized  and management might differ according to the age groups.
+OBJECTIVE: To reach an expert and stakeholder consensus on PNES management.
+METHODS: A board comprising adult and child neurologists  neuropsychologists  psychiatrists  pharmacologists  experts in forensic medicine and bioethics as well as patients' representatives was formed.
+The board chose five main topics regarding PNES: "diagnosis"; "ethical issues"; "psychiatric comorbidities"; "psychological treatment"; "pharmacological treatment".
+After a systematic review of the literature  the board met in a Consensus Conference in Catanzaro (Italy).
+Further consultations using the model of Delphi panel were held.
+RESULTS: The global level of evidence for all topics was low.
+Even though most questions were formulated separately for children/adolescents and adults  no major age-related differences emerged.
+The board established that the approach to PNES diagnosis should comply with ILAE recommendations.
+Seizures' induction was considered ethical  preferring the least invasive techniques.
+The board recommended: to carefully look for mood disturbances  personality disorders and psychic trauma in persons with PNES; to consider cognitive-behavioural therapy as first line psychological approach and pharmacological treatment to manage comorbid conditions  namely anxiety and depression.
+CONCLUSIONS: PNES management should be multidisciplinary.
+High-quality  long-term studies are needed to standardize PNES management.
+This article is protected by copyright.
+All rights reserved.
+The closed-loop application of electrical stimulation via chronically implanted electrodes is a novel approach to stop seizures in patients with focal-onset epilepsy.
+To this end  an energy efficient seizure detector that can be implemented in an implantable device is of crucial importance.
+In this study  we first evaluated the performance of two machine learning algorithms (Random Forest classifier and support vector machine (SVM)) by using selected time and frequency domain features with a limited need of computational resources.
+Performance of the algorithms was further compared to a detection strategy implemented in an existing closed loop neurostimulation device for the treatment of epilepsy.
+The results show a superior performance of the Random Forest classifier compared to the SVM classifier and the reference approach.
+Next  we implemented the feature extraction and classification process of the Random Forest classifier on a microcontroller to evaluate the energy efficiency of this seizure detector.
+In conclusion  the feature set in combination with Random Forest classifier is an energy efficient hardware implementation that shows an improvement of detection sensitivity and specificity compared to the presently available closed-loop intervention in epilepsy while preserving a low detection delay.
+Almost one-third of the people suffering from epilepsy continue to have seizures in spite of using appropriate antiepileptics.
+Pharmacoresistance is defined as the failure to achieve seizure control with two or more anticonvulsant medications at appropriate daily dosage.
+Here  we discuss one such gentleman whose seizures had been intractable despite multiple antiepileptic drugs in maximum tolerable doses.
+Verapamil  a calcium channel blocker  was used for its P-glycoprotein inhibition properties to overcome the pharmacoresistance in this patient with satisfactory seizure control.
+There are a few studies with limited patients on the successful usage of verapamil in a patient with pharmacoresistant status epilepticus (SE).
+We intend to publish this case report to draw interest among the critical care physicians on pharmacoresistant SE  the different hypotheses that prevail  its causes and the available management strategies.
+OBJECTIVE: Anterior nucleus of thalamus (ANT) deep brain stimulation (DBS) is becoming a more common treatment for drug-resistant epilepsy.
+Epilepsy and depression display a bidirectional association.
+Anterior nucleus of thalamus has connections to anterior cingulate cortex and orbitomedial prefrontal cortex  hence  a possible role in emotional and executive functions  and thus  ANT DBS might exert psychiatric adverse effects.
+Our aim was to evaluate previous and current psychiatric symptoms in patients with epilepsy undergoing ANT DBS surgery and assess the predictability of psychiatric adverse effects.
+Programming-related psychiatric adverse effects are also reported.
+METHOD: Twenty-two patients with ANT DBS for retractable epilepsy were examined  and a psychiatric evaluation of depressive and other psychiatric symptoms was performed with Montgomery and   sberg Depression Rating Scale (MADRS)  Beck Depression Inventory (BDI)  and Symptom Checklist prior to surgery  concentrating on former and current psychiatric symptoms and medications.
+The follow-up visit was one year after surgery.
+RESULTS: At the group level  no changes on mood were observed during ANT DBS treatment.
+Two patients with former histories of depression experienced sudden depressive symptoms related to DBS programming settings; these were quickly alleviated after changing the stimulation parameters.
+In addition  two patients with no previous histories of psychosis gradually developed clear paranoid and anxiety symptoms that also relieved slowly after changing the programming settings.
+CONCLUSION: The majority of our ANT DBS patients did not experience psychiatric adverse effects.
+Certain DBS parameters might predispose to sudden depressive or slowly manifesting paranoid symptoms that are reversible via programming changes.
+BACKGROUND: Vitamin D deficiency is highly prevalent among children with epilepsy.
+Lack of high-quality evidence led to variability among scientific societies recommendations.
+Therefore  we aim to determine the efficacy of different common doses used in the pediatric practice to maintain optimal twenty five-hydroxy vitamin D (twenty five [OH] vitamin D) level in children with epilepsy and normal baseline twenty five (OH) vitamin D level over six months of supplementation.
+METHODS: This is a protocol for phase IV pragmatic randomized superiority controlled open-label trial at King Saud University Medical City in Riyadh.
+Children with epilepsy and receiving chronic antiepliptic medication and normal baseline twenty five (OH) vitamin D level will be randomly assigned to receive Cholecalciferol four hundred IU per day versus one thousand IU per day for six months.
+Our primary outcome is the proportion of children with vitamin D insufficiency at six months.
+Secondary outcomes include seizure treatment failure  seizure frequency  parathyroid hormone (PTH) levels  bone mineral density  and safety.
+DISCUSSION: Our trial is set out to evaluate the efficacy of common different vitamin D maintenance doses on twenty five (OH) vitamin D level  seizure control  and bone health for children with epilepsy.
+The results of our study will possibly help in shaping current vitamin D guidelines for vitamin D supplementation in children with epilepsy and provide a link between twenty five (OH) vitamin D level and seizure control.
+Background: In the surgical treatment of temporal lobe epilepsy with mesial temporal lobe tumor  whether to remove the hippocampus aiming for a better seizure outcome in addition to removing the tumor is a dilemma.
+Two pediatric cases treated successfully with tumor removal alone are presented.
+Case Description: The first case was an eleven year-old girl with a ganglioglioma in the left uncus  and the second case was a nine-year-old girl with a pleomorphic xanthoastrocytoma in the left parahippocampal gyrus.
+In both cases  the hippocampus was not invaded  merely compressed by the tumor.
+Tumor removal was performed under intraoperative electrocorticography (ECoG) monitoring.
+After tumor removal  abnormal discharges remained at the hippocampus and adjacent temporal cortices  but further surgical interventions were not performed.
+The seizures disappeared completely in both cases.
+Conclusions: When we must decide whether to remove the hippocampus  the side of the lesion  the severity and chronicity of the seizures  and the presence of invasion to the hippocampus are the factors that should be considered.
+Abnormal discharges on ECoG at the hippocampus or adjacent cortices are one of the factors related to epileptogenicity  but it is simply a result of interictal irritation  and it is not an absolute indication for additional surgical intervention.
+BACKGROUND/AIMS: Immunological mechanisms can be triggered as a response to central nervous system insults and can lead to seizures.
+In this study an investigation was made to determine if glatiramer acetate (GA)  an immunomodulator currently used in the treatment of multiple sclerosis  could protect rats from pilocarpine-induced seizures and chronic epilepsy.
+METHODS: Two groups of adult male Sprague-Dawley rats  experimental (GA) and control  were used in the study.
+The GA group was given GA and the control group was given a saline injection prior to pilocarpine-induced seizures.
+Seizure susceptibility  severity and mortality were evaluated  using Racine seizure classification and hippocampal damage was evaluated by Nissl staining.
+The GA group received GA daily after SE  and the chronic spontaneous seizures were evaluated by long-term video recording  and mossy fiber sprouting was evaluated by Timm staining.
+The TNF-a level in the hippocampus was determined at the SRS stage by immunohistochemistry.
+The effect of GA on ionic currents and action potentials (APs) in NG one hundred eight-fifteen differentiated neurons was investigated using patch-clamp technology.
+RESULTS: It was found that latency to severe seizures was significantly longer in the GA group  which also had SE of shorter duration and less frequent SRS.
+Mechanistically  GA reduced the peak amplitude of voltage-gated Na+ current (INa)  with a negative shift in the inactivation curve of INa and reduced the amplitude of APs along with decreased firing of APs.
+CONCLUSION: GA might serve as a neuroexcitability modulator which attenuates pilocarpine-induced acute and chronic excitotoxicity.
+Sodium channel attenuation was partially independent of the immunomodulatory effect.
+OBJECTIVE: To evaluate and compare the effects of concomitant lamotrigine (LTG) or carbamazepine (CBZ) on the incidence of treatment-emergent adverse events (TEAEs) in patients taking adjunctive eslicarbazepine acetate (ESL) for focal (partial-onset) seizures (FS).
+Patients were randomized equally to placebo  ESL four hundred mg (Studies three hundred one and three hundred two only) eight hundred mg  or one thousand two hunred  mg once daily (eight-week baseline  two-week titration  and twelve-week maintenance periods).
+TEAEs  TEAEs leading to discontinuation  and serious AEs (SAEs) were evaluated in patients taking  or not taking  LTG (excluding those taking CBZ or phenytoin [PHT]; i.e.  the +LTG and -LTG/-CBZ subgroups)  or CBZ (excluding those taking LTG or PHT; i.e.  the +CBZ and -LTG/-CBZ subgroups) at baseline.
+The results were similar when evaluating placebo-adjusted incidences.
+CONCLUSION: There was a potential pharmacodynamic interaction between AEDs with a putatively similar mechanism of action  with a seemingly lesser interaction between ESL and LTG versus ESL and CBZ.
+If combining ESL with LTG or CBZ  clinicians should be aware of the potential risk for an increased incidence of TEAEs typically associated with voltage-gated sodium channel inhibitors (e.g.  dizziness  blurred vision  vertigo  diplopia  headache  or vomiting).
+Background and Objectives: Statins are inhibitors of three-hydroxy-three-methylglutaryl coenzyme A (HMG-CoA) reductase  used for the management of hypercholesterolemia and related atherosclerotic diseases.
+Several studies have indicated the neuroprotective effects of statins on several neuropathological conditions.
+However  the role of these medications in epilepsy is still unclear.
+The purpose is to evaluate and summarize the level of evidence on the efficacy of statins in neuronal hyperexcitability and the neuroinflammatory processes of epilepsy.
+Methods: A systematic review was performed.
+Eligibility Criteria: This review involved studies conducted in humans and nonhuman experimental models  covering the use of an inhibitor of HMG-CoA reductase  alone or accompanied by another medication  in epilepsy.
+Information Sources: A systematic literature search was performed in PubMed  Embase  Ebsco Host  Scopus  Science Direct  Medline  and LILACS.
+Risk of Bias: It was evaluated with the Newcastle-Ottawa Scale and the experimental studies were evaluated using the GRADE tool.
+Results: Twenty articles of the one hundred eighty three evaluated were included.
+Sixteen studies were conducted in animal models and four studies in humans.
+Most studies in mice reported a reduction in epileptiform activity and reduction in systemic inflammation with the treatment of statins  potentially influencing epilepsy control.
+Few studies in humans were performed in the geriatric population with variable results (neuroinflammation  seizure prevention  cell death  prevention of kindling  increase in convulsive threshold  increase in latency  decrease in frequency of crisis  and reduction in mortality) related to reduction in the rate of hospitalizations  mortality  and prevention of epilepsy.
+Conclusions: The possible antiepileptic mechanism of statins may be related to the reduction in neuroinflammation mediated by a decrease in pro-inflammatory cytokines and action in the nitrergic system.
+Further studies evaluating the impact of statins on seizure control are necessary.
+METHODS: In Study two hundred thirty one  patients received adjunctive perampanel less than or eual to twelve mg/day during a to-week treatment period.
+Patients completing Study two hundred thirty one could enter Study two hundred thirty thee less than or equal to three hundred sixteen-week treatment period.
+During Study two hundred thirty one  a pharmacokinetic analysis assessed the effects of enzyme-inducing antiepileptic drugs.
+Twenty-one patients entered Study two hundred thirty three.
+CONCLUSION: Adjunctive perampanel demonstrated a favourable safety profile and long-term tolerability in Japanese patients with refractory POS for less than or equal to three hundred sixteen weeks.
+This meta-analysis paper describes the analysis of observational clinical studies on the treatment of refractory epilepsy with cannabidiol (CBD)-based products.
+Beyond attempting to establish the safety and efficacy of such products  we also investigated if there is enough evidence to assume any difference in efficacy between CBD-rich extracts compared to purified CBD products.
+The categorical data of a total of six hundred seventy patients were analyzed by Fischer test.
+The average daily dose ranged between one and fifty mg/kg  with treatment length from three to twelve months.
+Patients treated with CBD-rich extracts reported lower average dose rhan those using purified CBD.
+The reports of mild nd severe adverse effects were more frequent in products containing purified CBD than in CBD-rich extracts.
+CBD-rich extracts seem to present a better therapeutic profile than purified CBD  at least in this population of patients with refractory epilepsy.
+The roots of this difference is likely due to synergistic effects of CBD with other phytocompounds (aka Entourage effect)  but this remains to be confirmed in controlled clinical studies.
+Background: The interest in cannabidiol (CBD) for treatment of epilepsy has been increasing over the last years.
+However  practitioner's attitudes concerning the use of CBD for epilepsy treatment appears to be divided and data about its clinical use in daily practice are not available.
+Objective: To improve the knowledge about the current use of CBD amongst European practitioners treating children and adolescents for epilepsy.
+Methods: Cross-sectional survey using an open-access online questionnaire for physicians treating children or adolescents for epilepsy within eight European countries from December two thousand seventeen to March two thousand eighteen.
+Results: One-hundred fifty-five physicians participated in the survey.
+Reported daily CBD doses range from less than ten to fifty mg/kg body weight.
+Management of CBD therapy in regard of monitoring side effects and adjusting concomitant therapy differs widely amongst participants.
+Their primary objective for commencing CBD is improving patient's quality of life.
+Conclusions: CBD is increasingly used by participating physicians but individual experience remains limited.
+There are very diverse opinions about the use of CBD to treat epilepsy in children and adolescents and widely differing views on how to manage the CBD treatment.
+The imbalance between the GABA-mediated inhibition and the glutamate-mediated excitation is the primary pathological mechanism of epilepsy.
+GABAergic and glutamatergic neurotransmission have become the most important targets for controlling epilepsy.
+Previous studies show that GCK promoted the release of GABA from the hippocampal neurons and enhanced the activity of GABAA receptors.
+GCK is shown to reduce the expression of NMDAR and to attenuate the function of the NMDA receptors in the brain.
+The anti-seizure effects of GCK have not been reported so far.
+Therefore  this study aimed to investigate the effects of GCK on epilepsy and its potential mechanism.
+The rat model of seizure or status epilepticus (SE) was established with either Pentylenetetrazole or Lithium chloride-pilocarpine.
+The Racine's scale was used to evaluate seizure activity.
+The levels of the amino acid neurotransmitters were detected in the pilocarpine-induced epileptic rats.
+We found that GCK had deceased seizure intensity and prolonged the latency of seizures.
+GCK increased the contents of GABA  while the contents of glutamate remained unchanged.
+These findings suggested that GCK exerted anti-epileptic effects by promoting the hippocampal GABA release and enhancing the GABAAR-mediated inhibitory synaptic transmission.
+Objective: To update the two thousand four American Academy of Neurology (AAN) guideline for managing treatment-resistant (TR) epilepsy with second- and third-generation antiepileptic drugs (AEDs).
+Methods: Two thousand four criteria were used to systematically review literature (January two thousand three to November two thousand fifteen)  classify pertinent studies according to the therapeutic rating scheme  and link recommendations to evidence strength.
+Results: Forty-two articles were included.
+Recommendations: The following are established as effective to reduce seizure frequency (Level A): immediate-release pregabalin and perampanel for TR adult focal epilepsy (TRAFE); vigabatrin for TRAFE (not first-line treatment; rufinamide for Lennox-Gastuat syndrome (LGS) (add-on therapy).
+The following should be considered to decrease seizure frequency (Level B): lacosamide  eslicarbazepine  and extended-release topiramate for TRAFE (ezogabine production discontinued); immediate- and extended-release lamotrigine for generalized epilepsy with TR generalized tonic-clonic (GTC) seizures in adults; levetiracetam (add-on therapy) for TR childhood focal epilepsy (TRCFE) (one month to sixteen years)  TR GTC seizures  and TR juvenile myoclonic epilepsy; clobazam for LGS (add-on therapy); zonisamide for TRCFE (six-seventeen years); oxcarbazepine for TRCFE (one month to four years).
+The text presents Level C recommendations.
+AED selection depends on seizure/syndrome type  patient age  concomitant medications  and AED tolerability  safety  and efficacy.
+This evidence-based assessment informs AED prescription guidelines for TR epilepsy and indicates seizure types and syndromes needing more evidence.
+A recent FDA strategy allows extrapolation of efficacy across populations; therefore  for focal epilepsy  eslicarbazepine and lacosamide (oral only for pediatric use) as add-on or monotherapy in persons greater than or equal to four years of age and perampanel as monotherapy received FDA approval.
+Background: Chronic temporal lobe epilepsy (cTLE) is the most common intractable epilepsy.
+Recent studies have shown that saikosaponin A (SSa) could inhibit epileptiform discharges induced by four action potentials and selectively increase the transient inactivating K+ currents (IA).
+However  the mechanisms of SSa on IA remain unclear.
+Materials and methods: All in vitro spontaneous recurrent seizures (SRS) were recorded with continuous video monitoring.
+BACKGROUND: Extended-release levetiracetam (LEV-XR) has gained acceptance as an antiepileptic drug in dogs.
+No studies have evaluated its disposition in dogs with epilepsy.
+HYPOTHESIS/OBJECTIVES: To evaluate the pharmacokinetics of LEV-XR in epileptic dogs when administered alone or with phenobarbital or zonisamide.
+ANIMALS: Eighteen client-owned dogs on steady-state maintenance treatment with LEV-XR LEV-XR and phenobarbital or LEV-XR and zonisamide.
+METHODS: Pharmacokinetic study.
+Blood samples were collected at zero two four eight and twelve hours after LEV-XR was administered with food.
+Plasma LEV concentrations were determined by high-pressure liquid chromatography.
+A population pharmacokinetic approach and nonlinear mixed effects modeling were used to analyze the data.
+RESULTS: Treatment group accounted for most of the interindividual variation.
+The LP group had lower CMAX compared to the L group and LZ group lower AUC and higher CL/F.
+The half-life that defined the terminal slope of the plasma concentration versus time curve (approximately five hours) was similar to values previously reported for healthy dogs.
+CONCLUSIONS AND CLINICAL IMPORTANCE: Considerable variation exists in the pharmacokinetics of LEV-XR in dogs with epilepsy being treated with a common dose regimen.
+Concurrent administration of phenobarbital contributed significantly to the variation.
+Other factors evaluated  including co-administration of zonisamide  were not shown to contribute to the variability.
+Drug monitoring may be beneficial to determine the most appropriate dose of LEV-XR in individual dogs.
+Epilepsy is a brain disorder characterized by sudden recurrent seizures.
+Considering the fact that epileptogenesis is a process that affects the quality of life  our goal is to delay the process of epileptogenesis and to increase the latency of epileptic attacks  offering better quality of life to patients.
+Traditional system of medicines has a promise in some of the medicines  which have been used for the treatment of epilepsy.
+One such medicinal plant is Eclipta alba (EA).
+According to Ayurvedic philosophy  the juice of leaves of EA is pounded with garlic and pepper for the treatment of epilepsy.
+Taking clue from the Ayurvedic system of medicines  we formulated coumarin fraction of EA  namely  coumarin nasal formulation (CNF) for its nasal delivery.
+CNF was analyzed by using high performance liquid chromatography (HPLC) and ultraviolet absorption spectroscopy for its drug content determination.
+Formulation was found to be non-irritant in HET-CAM assay.
+CNF was further assessed in vivo by measuring the progress and attainment of pentylenetetrazole (PTZ) kindling in mice.
+Neuronal changes were assessed by hematoxylin and eosin (H_E) and Nissl staining technique.
+Glial fibrillary acidic protein (GFAP) a neuroinflammatory marker and tumor necrosis factor alpha (TNF-a) an inflammatory marker were also measured.
+CNF (ten mg/kg  nasal route) when given as a pretreatment lowered seizure score and delayed the progression of seizure similar to diazepam.
+CNF decreased the PTZ induced oxidative damage  TNF-a as well as GFAP levels in the midbrain tissue particularly in hippocampus region.
+The results suggest that CNF may be a promising therapeutic approach to offer protection from sudden recurrent seizures alone or in combination with current drugs in management of epilepsy.
+Hypothalamic hamartomas (HH) are deep-seated lesions often associated with catastrophic epilepsy (an epileptic syndrome characterized by severe  drug-refractory seizures eventually leading to mental retardation and death).
+Radical microsurgical resection is not feasible for lesions located within the wall of the third ventricle inside the hypothalamus.
+Frame-based stereotactic radiosurgery has been reported as an effective treatment modality for small- to medium-size intrahypothalamic hamartomas  providing excellent seizure outcomes without lasting complications.
+This report describes the use of frameless image-guided robotic radiosurgery (CyberKnife   Radiosurgery System) as a first-line treatment in two children with catastrophic epilepsy induced by HH.
+Both patients experienced multiple-daily complex partial and gelastic seizures  as well as almost daily generalized seizures.
+A steady reduction of the seizure frequency and severity was achieved after the treatment  starting about three months after the treatment.
+The generalized seizures disappeared within one year  while complete resolution of the gelastic seizures required up to eighteen months.
+No seizure recurrence and no radiation-induced side effects or complications were witnessed over a follow-up period of ten years and eight months  (case I) and nine years and seven months  (case II)  since the treatment.
+CyberKnife radiosurgery proved to be a safe and effective non-invasive first-line treatment in these two children with catastrophic epilepsy caused by HH.
+Background: The use of awake craniotomy for surgical treatment of epilepsy was applied in surgery of convexital tumors  arteriovenous malformations  some superficial aneurysms  and stereotactic neurosurgery.
+The aim of this study was to show the advantages of awake craniotomy without sedation  accompanied by intraoperative neurophysiological monitoring in patients with symptomatic epilepsy.
+Methods: This article describes the results of surgical treatment in forty one patients with various pathologies; thirty one among them suffered from epilepsy.
+Results: Most frequently  the pathological foci were located in frontal and parietal lobes nearby eloquent brain areas.
+Irrespective of damage location  simple partial and complex partial seizures were seen almost with the same frequency.
+Minor perioperative complications  including the decrease in blood pressure in six patients and intraoperative convulsions in two patients  were handled and did not led to operation termination or anesthesia conversion.
+Conclusion: Thus  the proposed method allows eliminating the complications associated with sedation and provides radical resection of pathological epileptogenic foci with low complication rate.
+Treatment of medically intractable focal epilepsy (MIFE) by surgical resection of the epileptogenic zone (EZ) is often effective provided the EZ can be reliably identified.
+Even with the use of invasive recordings  the clinical differentiation between the EZ and normal brain areas can be quite challenging  mainly in patients without MRI detectable lesions.
+Such variable and unfavorable outcomes associated with high morbidity rates are often caused by imprecise and/or inaccurate EZ localization.
+We developed a localization algorithm that uses network-based data analytics to process invasive EEG recordings.
+This network algorithm analyzes the centrality signatures of every contact electrode within the recording network and characterizes contacts into susceptible EZ based on the centrality trends over time.
+The algorithm was tested in a retrospective study that included forty two patients from four epilepsy centers.
+Our algorithm had higher agreement with EZ regions identified by clinicians for patients with successful surgical outcomes and less agreement for patients with failed outcomes.
+These findings suggest that network analytics and a network systems perspective of epilepsy may be useful in assisting clinicians in more accurately localizing the EZ.
+BACKGROUND AND PURPOSE: This study is to assess the responsiveness of electroencephalography (EEG) abnormalities and their effects on language ability after initiating different types of antiepileptic therapy in children with newly diagnosed benign epilepsy of childhood with centrotemporal spikes (BECTS).
+METHODS: The records of patients newly diagnosed with BECTS were reviewed retrospectively.
+The patients were randomly treated with lamotrigine  oxcarbazepine  or topiramate monotherapy  and underwent at least two EEG and standardized language tests.
+Effects were compared using Pearson's chi-square tests and paired t-tests.
+Patients in the lamotrigine group showed significant improvements in all parameters assessed by the Test of Language Problem Solving Abilities  except for 'determining cause.'
+Patients in the oxcarbazepine group also showed improvements  except for 'making inferences'.
+Most linguistic index scores were worse in the topiramate group except for Mean Length of Utterance in Words.
+Patients in the lamotrigine and oxcarbazepine groups showed significant improvements in the receptive language test.
+EEG improvements were not related to language ability.
+CONCLUSIONS: The improvements in language and problem-solving performance in children with BECTS were greater for lamotrigine and oxcarbazepine than for topiramate.
+However  EEG remission did not imply that language function would be improved after the treatments.
+Objective: Benign epilepsy with centrotemporal spikes (BECTS) is a common  self-limited epilepsy syndrome affecting school-age children.
+Classic interictal epileptiform discharges (IEDs) confirm diagnosis  and BECTS is presumed to be pharmacoresponsive.
+As seizure risk decreases in time with this disease  we hypothesize that the impact of IEDs and anticonvulsive drug (ACD) treatment on the risk of subsequent seizure will differ based on disease duration.
+Methods: We calculate subsequent seizure risk following diagnosis in a large retrospective cohort of children with BECTS evaluating the impact of IEDs and ACD treatment in the first  second  third  and fourth years of disease.
+We use a Kaplan-Meier survival analysis and logistic regression models.
+Patients were censored if they were lost to follow-up or if they changed group status.
+Results: Two-thirds of children had a subsequent seizure within two years of diagnosis.
+The majority of children had a subsequent seizure within three years despite treatment.
+The presence of IEDs on electroencephalography (EEG) did not impact subsequent seizure risk early in the disease.
+By the fourth year of disease  all children without IEDs remained seizure free  whereas one-third of children with IEDs at this stage had a subsequent seizure.
+Conversely  ACD treatment corresponded with lower risk of seizure early in the disease but did not impact seizure risk in later years.
+Significance: In this cohort  the majority of children with BECTS had a subsequent seizure despite treatment.
+In addition  ACD treatment and IEDs predicted seizure risk at specific points of disease duration.
+Future prospective studies are needed to validate these exploratory findings.
+Of these fifty six patients with seizures were included in the analysis.
+Sodium channel blocking (NCB) AEDs were associated with seizure freedom in four patients compared to none treated with non-NCB AEDs.
+In general  AEDs seemed to confer a very low chance for seizure freedom  although AEDs with NCB-blocking properties were associated with seizure freedom in a limited number.
+Levetiracetam in particular appears to be ineffective in this patient population.
+Adipose tissue is a dynamic organ with different effects on the body.
+Many of these effects are mediated by leptin  a hormone strongly involved in regulation of feeding and energy metabolism.
+It has an important role as a mediator of neuronal excitatory activity and higher brain functions.
+The aim of this study was to review the association between leptin and cerebral neuronal function  in particular its anticonvulsant or convulsant effects and the possible therapeutic role for treating epilepsy.
+For this purpose  the databases Pubmed  Science Direct  Elsevier  ResearchGate and Scielo were searched to identify experimental studies  reviews and systematic review articles  published in English  Spanish or Portuguese.
+Experimental studies and the presence of leptin receptors in nervous system sites other than the hypothalamus suggest an influence on higher brain functions.
+Indeed several animal studies have demonstrated a role of these channels in epileptiform activity as both anticonvulsive and convulsive effects have been found.
+The reason for these discrepancies is unclear but provides clear evidence of a potential role of leptin and leptin therapy in epileptiform activity.
+The association between leptin and brain function demonstrates the importance of peripheral metabolic hormones on central nervous system and opens a new way for the development of novel therapeutic interventions in diseases like epilepsy.
+Nevertheless further investigations are important to clarify the dynamics and diverse actions of leptin on excitatory regulation in the brain.
+Epilepsy is one of the most common chronic neurologic disorders that affects individuals of all ages.
+It is primarily managed with antiepileptic drugs (AEDs)  with the goal of maintaining complete seizure control combined with minimal or no adverse effects.
+Oral administration is the mainstay of AED delivery for patients with chronic epilepsy and consists essentially of immediate-release (IR) and modified-release (delayed-release and extended-release [ER]) dosage formulations.
+Extended-release formulations (hydrophilic or hydrophobic matrix systems  reservoir systems  and osmotic-release systems) release a drug in a controlled manner during an extended period of time following administration.
+Extended-release formulations have many advantages compared with IR formulations  including simplification of dosing regimens  reduction in pill burden  and reduction in the peak-to-trough fluctuations in serum drug concentration that may be associated with a decreased risk of adverse effects and of seizures.
+These advantages have the potential to increase adherence to antiepileptic therapy  improve the quality of life of patients  and reduce health care costs.
+This article  which is intended as a practical guide for clinicians  reviews the properties of the different ER AED formulations currently available and discusses the advantages of ER over IR formulations.
+Subsequently  an explanation of the technologic basis of the different oral ER formulations  the critical attributes that differentiate ER products  and their individual strengths and weaknesses is provided.
+Specific recommendations to practitioners on treating patients with ER formulations are included.
+Detection of epileptic seizure activities from long-term multi-channel electroencephalogram (EEG) signals plays a significant role in the timely treatment of the patients with epilepsy.
+Visual identification of epileptic seizure in long-term EEG is cumbersome and tedious for neurologists  which might also lead to human error.
+Therefore  an automated tool for accurate detection of seizures in a long-term multi-channel EEG is essential for the clinical diagnosis.
+This study proposes an algorithm using multi-features and multilayer perceptron neural network (MLPNN) classifier.
+After appropriate approval from the ethical committee  recordings of EEG data were collected from the Institute of Neurosciences  Ramaiah Memorial College and Hospital  Bengaluru.
+Initially  preprocessing was performed to remove the power-line noise and motion artifacts.
+Four features  namely power spectral density (Yule-Walker)  entropy (Shannon and Renyi)  and Teager energy  were extracted.
+The Wilcoxon rank-sum test and descriptive analysis ensure the suitability of the proposed features for pattern classification.
+Single and multi-features were fed to the MLPNN classifier to evaluate the performance of the study.
+Further  the results indicate the proposed study is suitable for real-time seizure recognition from multi-channel EEG recording.
+The graphical user interface was developed in MATLAB to provide an automated biomarker for normal and epileptic EEG signals.
+The ketogenic diet (KD) has been found to be effective in reducing seizures in patients with treatment-refractory epilepsy.
+Less attention has been paid to additional cognitive benefits of KD.
+The aim of the present paper was to provide a comprehensive overview of the studies reporting effects on cognition after KD treatment in adults and children with epilepsy.
+To address this aim  the clinical literature on cognitive effects of KD in patients with epilepsy was reviewed using a systematic approach.
+We conclude that using subjective assessments of the patient's experience  cognitive improvements are frequently reported during KD treatment in the domains of alertness  attention  and global cognition.
+Studies that used objective neuropsychological tests confirmed benefits on alertness but found no improvement in global cognition.
+There are indications that these improvements are caused by both seizure reduction and direct effects of KD on cognition.
+The improvements appear to be unrelated to medication reduction  age when KD is started  type of KD  and sleep improvement.
+The findings in the present overview contribute to a better understanding of the beneficial effects of KD in patients with epilepsy.
+The persistence of intractable neurological disorders necessitates novel therapeutic solutions.
+We demonstrate the utility of direct in situ electrophoretic drug delivery to treat neurological disorders.
+We present a neural probe incorporating a microfluidic ion pump ( FIP) for on-demand drug delivery and electrodes for recording local neural activity.
+The  FIP works by electrophoretically pumping ions across an ion exchange membrane and thereby delivers only the drug of interest and not the solvent.
+This "dry" delivery enables precise drug release into the brain region with negligible local pressure increase.
+The therapeutic potential of the  FIP probe is tested in a rodent model of epilepsy.
+The  FIP probe can detect pathological activity and then intervene to stop seizures by delivering inhibitory neurotransmitters directly to the seizure source.
+We anticipate that further tailored engineering of the  FIP platform will enable additional applications in neural interfacing and the treatment of neurological disorders.
+Pyridoxine dependent epilepsy is a condition where the affected infant or child has prolonged seizures (status epilepticus)  which are nonresponsive to anticonvulsant therapy but can be treated with pharmacological doses of pyridoxine.
+If identified earlier and treated prophylactically with pyridoxine  severe brain damage due to seizures can be prevented.
+Alpha-amino adipic semialdehyde (AASA)  piperidine-six-carboxylic acid and pipecolic acid (PA) are known biomarkers of pyridoxine dependent epilepsy.
+We report the development and validation of a hydrophilic interaction liquid chromatography (HILIC) hyphenated with mass spectroscopy for the quantification of the above analytes from dried blood spot samples.
+Extensive stability studies demonstrated that the analytes were stable in stock solution and in matrix when stored at -eighty  C.
+We performed method comparison studies of the developed method with the literature reported method using normal samples and matrix matched spiked samples at pathological concentrations to mimic clinical validity.
+The Bland-Altman analysis for comparison of the analytical suitability of the method for the biomarkers in healthy and spiked samples with the literature reported method revealed a bias which suggested that the method was comparable.
+The newly developed method involves no derivatisation and has a simple sample preparation and a low run time enabling it to be easily automated with a high sample throughput in a cost-effective manner.
+Valproic acid (VPA) provides a common treatment for both epilepsy and bipolar disorder; however  common cellular mechanisms relating to both disorders have yet to be proposed.
+Here  we explore the possibility of a diacylglycerol kinase (DGK) playing a role in regulating the effect of VPA relating to the treatment of both disorders  using the biomedical model Dictyostelium discoideum DGK enzymes provide the first step in the phosphoinositide recycling pathway  implicated in seizure activity.
+They also regulate levels of diacylglycerol (DAG)  thereby regulating the protein kinase C (PKC) activity that is linked to bipolar disorder-related signalling.
+Here  we show that ablation of the single Dictyostelium dgkA gene results in reduced sensitivity to the acute effects of VPA on cell behaviour.
+Loss of dgkA also provides reduced sensitivity to VPA in extended exposure during development.
+To differentiate a potential role for this DGKA-dependent mechanism in epilepsy and bipolar disorder treatment  we further show that the dgkA null mutant is resistant to the developmental effects of a range of structurally distinct branched medium-chain fatty acids with seizure control activity and to the bipolar disorder treatment lithium.
+Finally  we show that VPA  lithium and novel epilepsy treatments function through DAG regulation  and the presence of DGKA is necessary for compound-specific increases in DAG levels following treatment.
+Thus  these experiments suggest that  in Dictyostelium  loss of DGKA attenuates a common cellular effect of VPA relating to both epilepsy and bipolar disorder treatments  and that a range of new compounds with this effect should be investigated as alternative therapeutic agents.This article has an associated First Person interview with the first author of the paper.
+Background: Data regarding lacosamide treatment as an adjunctive therapy in patients representative of a focal-onset epilepsy population including those with and without intellectual/developmental disorders (IDDs) are limited.
+Purpose: To evaluate the retention rates of lacosamide in focal-onset epilepsy patients with and without IDD.
+Patients and methods: We retrospectively reviewed all consecutive electronic and paper medical records of patients diagnosed with focal-onset epilepsy who were treated with lacosamide in two tertiary epilepsy centers.
+Results: One hundred and thirty-six patients who met the inclusion criteria were studied.
+Kaplan-Meier survival analysis showed that the retention rates were significantly lower in patients with IDD when compared to patients without IDD.
+Cox regression analysis showed that concomitant use of sodium channel blocker antiepileptic drugs (AEDs) was the only independent predictor of retention rate of lacosamide treatment.
+In the subgroup of patients with IDD  the analysis was performed again and the number of background AEDs was the only predictor for the retention rate of lacosamide.
+Conclusion: When compared to patients without IDD  retention rates of lacosamide adjunctive therapy were lower in patients with IDD.
+However  these rates were higher than the rates suggested with previously registered AEDs including lamotrigine  levetiracetam  and topiramate.
+Therefore  irrespective of having comorbid IDD  we might suggest that lacosamide is a well-retained drug with a high efficacy profile in patients with focal-onset epilepsy.

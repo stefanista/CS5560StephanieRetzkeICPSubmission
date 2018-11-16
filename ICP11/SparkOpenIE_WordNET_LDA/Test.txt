@@ -1,0 +1,198 @@
+patient,Patient
+patients,Patient
+women,Patient
+woman,Patient
+man,Patient
+men,Patient
+child,Patient
+children,Patient
+rats,Patient
+rat,Patient
+animal,Patient
+dogs,Patient
+dog,Patient
+adult,Patient
+practitioner,Patient
+mice,Patient
+girl,Patient
+STRADA,Gene
+strada,Gene
+treatment,Treatment
+drug,Treatment
+vitamin,Treatment
+therapy,Treatment
+drugs administration,Treatment
+radiosurgery,Treatment
+radio surgery,Treatment
+surgery,Treatment
+treatment identification,Treatment
+pharmacokinetics,Treatment
+surgical,Treatment
+therapeutic,Treatment
+antiepileptic,Treatment
+treatment-emergent,Treatment
+application,Treatment
+Application,Treatment
+compound,Treatment
+literature,Research
+study,Research
+paper,Research
+cases,Research
+articles,Research
+article,Research
+model,Research
+criteria,Research
+studies,Research
+historic,Research
+record,Research
+records,Research
+brain,Tissue
+lobe,Tissue
+tissue,Tissue
+tumor,Tissue
+tumors,Tissue
+nucleus,Tissue
+Adipose,Tissue
+lesions,Symptom
+lesion,Symptom
+tremor,Symptom
+imbalance,Symptom
+effects,Symptom
+adverse,Symptom
+deficiency,Symptom
+analysis,Management
+consensus,Management
+identified,Management
+phase,Management
+pediatric,Management
+detection,Management
+objective,Management
+delivery,Management
+proposed,Management
+interest,Management
+differentiation,Management
+application,Management
+goal,Management
+aim,Management
+retention,Management
+diagnosed,Management
+reliably,Management
+refractory,Management
+dexamethasone,Chemical
+Parkinson 's disease epilepsy,Disease
+seizure forecasting seizure detection in patients with drug-resistant focal epilepsy,Disease
+tracking of epileptic networks operating over time scales ranging from milliseconds,Disease
+LEV-ER-treated group,Chemical
+LEV-ER,Chemical
+LEV-ER treatment,Chemical
+STRADA gene deletion in two sisters from parents,Gene
+His epileptic spasms,Disease
+diffuse epileptic discharge,Disease
+partial seizures,Disease
+AEDs,Disease
+efficacy of AEDs,Disease
+RE,Disease
+rat model of PTZ-induced epilepsy,Disease
+seizures,Disease
+antiepileptics,Disease
+seizures,Disease
+calcium channel blocker,Chemical
+satisfactory seizure control,Disease
+epilepsy,Disease
+depression,Disease
+Programming-related psychiatric adverse effects,Disease
+sudden depressive symptoms,Disease
+DBS programming settings,Disease
+previous histories of psychosis,Disease
+psychiatric adverse effects,Disease
+Certain DBS parameters,Disease
+depressive,Disease
+OH vitamin D level,Chemical
+Cholecalciferol four hundred IU,Chemical
+seizure treatment failure seizure frequency hormone levels,Disease
+epilepsy,Disease
+current vitamin D guidelines for vitamin D supplementation,Chemical
+mesial temporal lobe tumor,Disease
+tumor removal alone,Disease
+seizures,Disease
+seizures,Disease
+glatiramer acetate,Chemical
+pilocarpine-induced seizures,Disease
+saline injection prior to seizures,Disease
+chronic seizures,Disease
+TNF-a level,Gene
+SRS stage,Disease
+Sodium channel attenuation,Chemical
+patients taking for focal seizures,Disease
+placebo ESL,Chemical
+Statins,Chemical
+inhibitor of HMG-CoA reductase,Chemical
+may related to reduction in neuroinflammation mediated by decrease in pro-inflammatory cytokines in system,Disease
+impact of statins on seizure control,Disease
+adjunctive perampanel,Chemical
+perampanel,Chemical
+analysis of clinical studies on treatment of refractory epilepsy,Disease
+CBD-rich extracts,Chemical
+frequent in products than in CBD-rich extracts,Chemical
+CBD-rich extracts,Chemical
+CBD,Chemical
+cannabidiol,Chemical
+CBD treatment,Chemical
+epilepsy,Disease
+GCK,Chemical
+GABA,Chemical
+function of NMDA receptors in brain,Chemical
+seizure activity,Disease
+GCK,Chemical
+seizure intensity,Disease
+GCK,Chemical
+contents of glutamate remained,Chemical
+GCK,Chemical
+seizure/syndrome type patient age medications,Disease
+seizure types,Disease
+epilepsy eslicarbazepine as add-on,Disease
+temporal lobe epilepsy,Disease
+epilepsy,Disease
+in spontaneous seizures,Disease
+antiepileptic drug,Disease
+epileptic dogs,Disease
+LEV-XR LEV-XR,Chemical
+Plasma LEV concentrations,Chemical
+pharmacokinetics in dogs with epilepsy,Disease
+brain disorder characterized by sudden seizures,Disease
+pentylenetetrazole in mice,Chemical
+progression of seizure similar to diazepam,Chemical
+PTZ,Chemical
+sudden recurrent seizures,Disease
+epilepsy,Disease
+seizures,Disease
+generalized seizures,Disease
+complete resolution of gelastic seizures required,Disease
+surgery of convexital tumors,Disease
+advantages without sedation accompanied by intraoperative monitoring in patients with epilepsy,Disease
+newly diagnosed benign epilepsy of childhood,Disease
+greater for lamotrigine than for topiramate,Chemical
+epilepsy,Disease
+seizure risk decreases in time,Disease
+seizure risk,Disease
+subsequent seizure,Disease
+seizure,Disease
+subsequent seizure,Disease
+subsequent seizure,Disease
+seizures,Disease
+Sodium channel blocking AEDs,Disease
+associated with seizure freedom in four patients,Disease
+AEDs,Disease
+development of interventions in diseases like epilepsy,Disease
+AED delivery for patients with epilepsy,Disease
+real-time seizure recognition,Disease
+seizures,Disease
+patients with treatment-refractory epilepsy,Disease
+seizure reduction,Disease
+epilepsy,Disease
+Pyridoxine epilepsy,Disease
+resistant to effects with seizure control activity to bipolar disorder treatment lithium,Disease
+epilepsy treatments,Disease
+focal-onset epilepsy patients with IDD,Disease
+rates suggested with previously registered AEDs including lamotrigine levetiracetam,Chemical
+high efficacy profile in patients with focal-onset epilepsy,Disease
