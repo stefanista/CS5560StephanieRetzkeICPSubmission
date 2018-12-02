@@ -1,0 +1,4 @@
+dexamethasone,testing,treatment INVERSE TO treatment,is with,dexamethasone
+animals,were divided into,five groups INVERSE TO five groups,were,animals
+five groups,were,animals INVERSE TO animals,were divided into,five groups
+treatment,is with,dexamethasone INVERSE TO dexamethasone,testing,treatment

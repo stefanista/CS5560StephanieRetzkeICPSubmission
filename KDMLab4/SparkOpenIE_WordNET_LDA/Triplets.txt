@@ -1,0 +1,286 @@
+objective,evaluate,effect on severity
+effect on severity,evaluate,objective
+dexamethasone,testing,treatment
+animals,were divided into,five groups
+five groups,were,animals
+treatment,is with,dexamethasone
+Brain stimulation,has emerged as,treatment for range
+Parkinson 's disease epilepsy,have,FDA indications for electrical brain stimulation
+implantable brain devices,is with,local computing resources
+Epilepsy,is disease,might benefit
+clinical trials,have demonstrated,seizure forecasting seizure detection in patients with drug-resistant focal epilepsy
+resources,wirelessly coupled to,device with payloads
+low demand analytics,are,embedded
+system,enables,tracking of epileptic networks operating over time scales ranging from milliseconds
+aim,compare,safety
+We,performed,paralleled
+European Quality,significantly increased in,LEV-ER-treated group
+LEV-ER,has,similar tolerability
+LEV-ER treatment,improved,health-related quality of life
+remaining individual,is of,consanguineous descent
+We,report,STRADA gene deletion in two sisters from parents
+His epileptic spasms,were,refractory
+Electroencephalography,revealed,diffuse epileptic discharge
+corpus callosotomy,was,performed
+he,experience once,partial seizures
+his developmental state,had returned to,levels
+purpose,compare efficacy with,AEDs
+study,compared,efficacy of AEDs
+Patients,were,subdivided
+rates,were,computed
+response,complete disappearance in,EEG responders
+children,is with,RE
+effects,is in,rat model of PTZ-induced epilepsy
+management,might differ according to,age groups
+stakeholder consensus,expert on,PNES management
+board,comprising,neurologists neuropsychologists psychiatrists pharmacologists experts in medicine
+board,chose,five topics
+board,met After,systematic review of literature
+consultations,were,held
+global level,was,low
+approach,comply with,recommendations
+Seizures ' induction,was,considered
+persons,is with,PNES
+PNES management,should,should multidisciplinary
+High-quality studies,standardize,PNES management
+article,is,protected
+application,is,novel
+we,first evaluated,performance
+Performance,was further compared to,detection strategy implemented in loop neurostimulation device for treatment
+results,show,performance
+we,implemented,feature extraction of Random Forest classifier
+feature,is,efficient
+seizures,using,antiepileptics
+Pharmacoresistance,is,defined
+seizures,had,had intractable in maximum tolerable doses
+calcium channel blocker,overcome pharmacoresistance with,satisfactory seizure control
+few studies,are in,patient with status epilepticus
+We,intend,publish
+Anterior nucleus,common treatment for,epilepsy
+depression,display,association
+Anterior nucleus,has,connections to anterior cingulate cortex hence possible role in emotional functions
+Our aim,evaluate,psychiatric symptoms in patients
+Programming-related psychiatric adverse effects,are,reported
+evaluation,was,performed
+visit,was,one year
+sudden depressive symptoms,related to,DBS programming settings
+two patients,is with,previous histories of psychosis
+psychiatric adverse effects,majority of,our ANT DBS patients
+Certain DBS parameters,might predispose to,depressive
+Vitamin D deficiency,is,highly prevalent
+Lack,led to,variability among societies recommendations
+we,determine,efficacy of doses used in practice
+King Saud University Medical City,is in,Riyadh
+OH vitamin D level,receive,Cholecalciferol four hundred IU
+Our primary outcome,is proportion of,children
+Secondary outcomes,include,seizure treatment failure seizure frequency hormone levels
+children,is with,epilepsy
+results,shaping,current vitamin D guidelines for vitamin D supplementation
+surgical treatment,is with,mesial temporal lobe tumor
+Two pediatric cases,treated successfully with,tumor removal alone
+case,was,eleven girl with ganglioglioma in uncus
+Tumor removal,was performed under,electrocorticography
+seizures,disappeared in,cases
+Immunological mechanisms,lead to,seizures
+glatiramer acetate,could protect rats from,pilocarpine-induced seizures
+GA group,was given,saline injection prior to seizures
+Seizure susceptibility severity,were,evaluated
+chronic seizures,were evaluated by,long-term video recording
+TNF-a level,was determined at,SRS stage
+effect,using,patch-clamp technology
+GA,Mechanistically reduced peak amplitude with,negative shift
+Sodium channel attenuation,was independent of,immunomodulatory effect
+treatment-emergent adverse events,is in,patients taking for focal seizures
+Patients,were randomized to,placebo ESL
+TEAEs TEAEs,were,evaluated in patients at baseline
+results,were,similar
+potential pharmacodynamic interaction,is with,putatively similar mechanism of action
+Statins,are,inhibitors
+Several studies,have indicated,neuroprotective effects of statins on conditions
+role,is,unclear
+purpose,evaluate,level of evidence on efficacy in hyperexcitability
+systematic review,was,performed
+accompanied,use of,inhibitor of HMG-CoA reductase
+systematic literature search,was,performed
+It,was,evaluated
+Sixteen studies,were,conducted
+Most studies,is in,mice
+studies,were performed in,geriatric population
+possible mechanism,may,may related to reduction in neuroinflammation mediated by decrease in pro-inflammatory cytokines in system
+Further studies,evaluating,impact of statins on seizure control
+two patients,received,adjunctive perampanel
+Patients,could enter,Study
+pharmacokinetic analysis,assessed effects During,Study
+patients,entered,Study two hundred thirty three
+perampanel,demonstrated,safety profile in Japanese patients with POS
+meta-analysis paper,describes,analysis of clinical studies on treatment of refractory epilepsy
+we,investigated,attempting
+daily dose,ranged with,treatment length
+Patients,treated with,CBD-rich extracts
+reports,were,frequent in products than in CBD-rich extracts
+CBD-rich extracts,present,profile
+CBD,is with,other phytocompounds
+interest,is in,cannabidiol
+practitioner,has,attitudes concerning
+survey,using,online questionnaire for physicians
+side effects,adjusting,therapy
+patient,has,quality of life
+differing views,manage,CBD treatment
+imbalance,is mechanism of,epilepsy
+GCK,release of,GABA
+expression,attenuate,function of NMDA receptors in brain
+rat model,was established with,Pentylenetetrazole
+Racine 's scale,evaluate,seizure activity
+levels,were,detected
+GCK,deceased,seizure intensity
+GCK,increased contents,contents of glutamate remained
+GCK,exerted,effects
+Neurology,of Academy is,AAN
+Two thousand four criteria,review,literature
+articles,were,included
+TRCFE,for zonisamide is,six-seventeen years
+text,presents,Level C recommendations
+AED selection,depends on,seizure/syndrome type patient age medications
+assessment,indicates,seizure types
+recent FDA strategy,allows extrapolation for,epilepsy eslicarbazepine as add-on
+temporal lobe epilepsy,is,epilepsy
+saikosaponin A,selectively increase,the
+mechanisms,However remain,unclear
+in spontaneous seizures,were,recorded
+antiepileptic drug,is in,dogs
+pharmacokinetics,is in,epileptic dogs
+teady-state maintenance treatment,is with,LEV-XR LEV-XR
+Blood samples,was administered with,food
+Plasma LEV concentrations,were determined by,chromatography
+mixed effects,analyze,data
+Treatment group,accounted for,most of interindividual variation
+LP group,had,lower CMAX
+plasma concentration,of slope is,approximately five hours
+variation,exists in,pharmacokinetics in dogs with epilepsy
+Concurrent administration,contributed significantly to,variation
+Other factors evaluated,contribute to,variability
+Drug monitoring,determine,appropriate dose in individual dogs
+Epilepsy,is,brain disorder characterized by sudden seizures
+our goal,delay,process of epileptogenesis
+system,has,promise
+such medicinal plant,is,Eclipta alba
+juice,is,pounded
+we,formulated coumarin fraction for,its nasal delivery
+CNF,using performance chromatography for,its drug content determination
+Formulation,was found,non-irritant in HET-CAM assay
+attainment,progress of,pentylenetetrazole in mice
+changes,were assessed by,hematoxylin
+Glial protein,were,measured
+pretreatment,delayed,progression of seizure similar to diazepam
+PTZ,induced GFAP levels in,midbrain tissue
+CNF,offer protection from,sudden recurrent seizures
+lesions,associated with,epilepsy
+stereotactic radiosurgery,has,has reported as treatment modality for small to medium-size intrahypothalamic hamartomas
+report,describes,use of frameless radiosurgery
+patients,experienced,seizures
+treatment,starting after,about three months
+generalized seizures,disappeared,complete resolution of gelastic seizures required
+treatment,since years is,case II
+CyberKnife radiosurgery,be,non-invasive treatment
+Background,applied in,surgery of convexital tumors
+aim,show,advantages without sedation accompanied by intraoperative monitoring in patients with epilepsy
+article,results of,surgical treatment in forty one patients
+Results,located in,frontal lobes
+Minor complications,were,handled
+method,provides resection with,complication rate
+Treatment,is effective,can reliably identified
+differentiation,can,can challenging mainly in patients without MRI lesions
+Such variable,are,caused
+network algorithm,analyzes,centrality signatures of contact electrode
+algorithm,was,tested
+Our algorithm,had,higher agreement with EZ regions identified
+network systems perspective,be,useful
+children,is with,newly diagnosed benign epilepsy of childhood
+records,were,reviewed retrospectively
+patients,underwent,language tests
+Effects,were,compared
+significant improvements,is in,parameters assessed by Test of Language Problem Solving
+Patients,is in,oxcarbazepine group
+linguistic index scores,were worse except for,Mean Length of Utterance in Words
+significant improvements,is in,receptive language test
+improvements,were,greater for lamotrigine than for topiramate
+epilepsy,is,self-limited
+diagnosis,is,presumed
+we,hypothesize,seizure risk decreases in time
+We,calculate,seizure risk
+We,use,survival analysis
+Patients,were censored,lost
+subsequent seizure,Two-thirds of,children
+majority,had,seizure
+subsequent seizure,one-third of,children
+impact,is in,later years
+subsequent seizure,majority of,children
+Future prospective studies,validate,findings
+fifty six patients,is with,seizures
+Sodium channel blocking AEDs,were,associated with seizure freedom in four patients
+AEDs,is with,NCB-blocking properties
+Levetiracetam,appears,ineffective in patient population
+Adipose tissue,is organ with,different effects
+effects,are,mediated
+It,has,important role
+aim,review,association between leptin
+databases,were searched For,purpose
+studies,suggest,influence on higher brain functions
+animal studies,Indeed have demonstrated,role
+opens,new way for,development of interventions in diseases like epilepsy
+investigations,clarify,dynamics of leptin
+It,is primarily managed with,drugs
+administration,is mainstay of,AED delivery for patients with epilepsy
+Extended-release formulations,release drug during,extended period of time
+simplification,is in,peak-to-trough fluctuations
+discusses,advantages over,IR formulations
+weaknesses,is,provided
+patients,is with,ER formulations
+Detection,plays role in,treatment
+identification,is,cumbersome
+automated tool,is essential for,clinical diagnosis
+study,proposes,algorithm
+preprocessing,remove,motion artifacts
+analysis,ensure,suitability of features for pattern classification
+Single,were,fed
+proposed study,is suitable for,real-time seizure recognition
+graphical user interface,was developed in,MATLAB
+seizures,is in,patients with treatment-refractory epilepsy
+attention,has,has paid
+aim,provide,comprehensive overview
+literature,using,approach
+patient,of,experience cognitive improvements
+improvement,is in,global cognition
+improvements,are caused by,seizure reduction
+KD,is,when started
+patients,is with,epilepsy
+persistence,necessitates,therapeutic solutions
+on-demand drug delivery,for pump is,FIP
+ions,thereby delivers,drug
+delivery,enables,drug release into brain region with negligible pressure increase
+therapeutic potential,is tested in,rodent model
+FIP probe,can detect,pathological activity
+applications,further tailored engineering of,FIP platform
+Pyridoxine epilepsy,is,condition
+Alpha-amino semialdehyde piperidine-six-carboxylic acid,are,known
+We,report,development of hydrophilic interaction liquid chromatography hyphenated with mass spectroscopy
+analytes,were,stable in stock solution in matrix
+method,using,samples
+healthy samples,is with,literature
+developed method,has,simple sample preparation
+common mechanisms,have,proposed
+first step,is in,phosphoinositide recycling pathway implicated
+They,also regulate,levels
+ablation,results in,sensitivity to acute effects on cell behaviour
+Loss,provides,sensitivity in extended exposure during development
+dgkA mutant,is,resistant to effects with seizure control activity to bipolar disorder treatment lithium
+epilepsy treatments,function through,DAG regulation
+new compounds,should,should investigated as therapeutic agents.This article
+adjunctive therapy,is in,patients
+retention rates,is in,focal-onset epilepsy patients with IDD
+retention rates,were significantly lower in,patients
+use,was,predictor
+analysis,was performed In,subgroup of patients
+patients,is with,IDD
+rates,were higher,rates suggested with previously registered AEDs including lamotrigine levetiracetam
+lacosamide,is well-retained drug with,high efficacy profile in patients with focal-onset epilepsy

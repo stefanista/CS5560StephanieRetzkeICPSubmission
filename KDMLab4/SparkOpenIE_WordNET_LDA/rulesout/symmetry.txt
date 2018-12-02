@@ -1,0 +1,4 @@
+objective,evaluate,effect on severity SYMMETRIC TO effect on severity,evaluate,objective
+
+effect on severity,evaluate,objective SYMMETRIC TO objective,evaluate,effect on severity
+
